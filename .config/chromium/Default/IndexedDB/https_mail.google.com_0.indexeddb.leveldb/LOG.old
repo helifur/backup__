@@ -1,0 +1,12 @@
+2024/09/15-17:14:14.027 1bd4 Reusing MANIFEST /home/viamn/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/15-17:14:14.027 1bd4 Recovering log #7
+2024/09/15-17:14:14.030 1bd4 Reusing old log /home/viamn/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2024/09/15-17:14:52.340 1bd5 Level-0 table #12: started
+2024/09/15-17:14:52.364 1bd5 Level-0 table #12: 2980371 bytes OK
+2024/09/15-17:14:52.368 1bd5 Delete type=0 #7
+2024/09/15-17:18:15.526 1bd5 Compacting 1@1 + 1@2 files
+2024/09/15-17:18:15.540 1bd5 Generated table #13@1: 219 keys, 527865 bytes
+2024/09/15-17:18:15.540 1bd5 Compacted 1@1 + 1@2 files => 527865 bytes
+2024/09/15-17:18:15.541 1bd5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/15-17:18:15.541 1bd5 Delete type=2 #12
+2024/09/15-17:18:15.542 1bd5 Delete type=2 #9

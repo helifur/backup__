@@ -1,0 +1,19 @@
+[org/gtk/settings/file-chooser]
+window-position=(397, 153)
+window-size=(1124, 822)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=156
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+
+[org/blueman/general]
+window-properties=[1918, 1044, 1, 35]
+
+[org/blueman/plugins/recentconns]
+recent-connections=[{'adapter': '84:3E:1D:48:A1:2E', 'address': '48:73:CB:1E:7A:F2', 'alias': 'Redmi Buds 4 Active', 'icon': 'audio-headset', 'name': 'Audio and input profiles', 'uuid': '00000000-0000-0000-0000-000000000000', 'time': '1720814856.7251627', 'device': '/org/bluez/hci0/dev_48_73_CB_1E_7A_F2'}]

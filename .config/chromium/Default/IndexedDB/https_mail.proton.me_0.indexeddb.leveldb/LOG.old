@@ -1,0 +1,35 @@
+2024/09/15-14:59:21.667 52c Reusing MANIFEST /home/viamn/.config/chromium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/15-14:59:21.668 52c Recovering log #48
+2024/09/15-14:59:21.668 52c Reusing old log /home/viamn/.config/chromium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000048.log 
+2024/09/15-14:59:22.448 52b Level-0 table #53: started
+2024/09/15-14:59:22.450 52b Level-0 table #53: 779 bytes OK
+2024/09/15-14:59:22.452 52b Delete type=0 #48
+2024/09/15-14:59:22.453 52b Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at '\x00\x12\x00\x00\x05' @ 415 : 1
+2024/09/15-14:59:22.453 52b Compacting 1@0 + 1@1 files
+2024/09/15-14:59:22.454 52b Generated table #54@0: 62 keys, 1101 bytes
+2024/09/15-14:59:22.454 52b Compacted 1@0 + 1@1 files => 1101 bytes
+2024/09/15-14:59:22.456 52b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/15-14:59:22.456 52b Delete type=2 #53
+2024/09/15-14:59:22.456 52b Manual compaction at level-0 from '\x00\x12\x00\x00\x05' @ 415 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/15-14:59:23.159 52b Level-0 table #56: started
+2024/09/15-14:59:23.161 52b Level-0 table #56: 778 bytes OK
+2024/09/15-14:59:23.163 52b Delete type=0 #52
+2024/09/15-14:59:23.163 52b Delete type=2 #50
+2024/09/15-14:59:23.163 52b Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\x05' @ 432 : 1
+2024/09/15-14:59:23.164 52b Compacting 1@0 + 1@1 files
+2024/09/15-14:59:23.165 52b Generated table #57@0: 62 keys, 1103 bytes
+2024/09/15-14:59:23.165 52b Compacted 1@0 + 1@1 files => 1103 bytes
+2024/09/15-14:59:23.167 52b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/15-14:59:23.167 52b Delete type=2 #56
+2024/09/15-14:59:23.168 52b Manual compaction at level-0 from '\x00\x13\x00\x00\x05' @ 432 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/15-14:59:23.394 52c Level-0 table #59: started
+2024/09/15-14:59:23.396 52c Level-0 table #59: 779 bytes OK
+2024/09/15-14:59:23.398 52c Delete type=0 #55
+2024/09/15-14:59:23.398 52c Delete type=2 #54
+2024/09/15-14:59:23.398 52c Manual compaction at level-0 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at '\x00\x14\x00\x00\x05' @ 453 : 1
+2024/09/15-14:59:23.398 52c Compacting 1@0 + 1@1 files
+2024/09/15-14:59:23.400 52c Generated table #60@0: 62 keys, 1103 bytes
+2024/09/15-14:59:23.400 52c Compacted 1@0 + 1@1 files => 1103 bytes
+2024/09/15-14:59:23.402 52c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/15-14:59:23.402 52c Delete type=2 #59
+2024/09/15-14:59:23.402 52c Manual compaction at level-0 from '\x00\x14\x00\x00\x05' @ 453 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)

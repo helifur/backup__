@@ -1,0 +1,6 @@
+2024/09/05-17:38:15.951 853 Creating DB /home/viamn/.config/chromium/Default/WebStorage/68/IndexedDB/indexeddb.leveldb since it was missing.
+2024/09/05-17:38:15.955 853 Reusing MANIFEST /home/viamn/.config/chromium/Default/WebStorage/68/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/05-17:41:00.663 853 Level-0 table #5: started
+2024/09/05-17:41:00.665 853 Level-0 table #5: 10357 bytes OK
+2024/09/05-17:41:00.667 853 Delete type=0 #3
+2024/09/05-17:41:00.667 853 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

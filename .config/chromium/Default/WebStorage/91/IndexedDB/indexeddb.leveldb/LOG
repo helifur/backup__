@@ -1,0 +1,6 @@
+2024/09/23-15:22:39.704 633 Reusing MANIFEST /home/viamn/.config/chromium/Default/WebStorage/91/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/23-15:22:39.705 633 Recovering log #3
+2024/09/23-15:22:39.716 633 Reusing old log /home/viamn/.config/chromium/Default/WebStorage/91/IndexedDB/indexeddb.leveldb/000003.log 
+2024/09/23-15:23:09.266 635 Level-0 table #5: started
+2024/09/23-15:23:09.287 635 Level-0 table #5: 900518 bytes OK
+2024/09/23-15:23:09.289 635 Delete type=0 #3

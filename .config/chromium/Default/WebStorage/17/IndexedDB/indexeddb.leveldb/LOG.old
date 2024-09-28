@@ -1,0 +1,18 @@
+2024/07/09-20:21:04.449 42f Creating DB /home/viamn/.config/chromium/Default/WebStorage/17/IndexedDB/indexeddb.leveldb since it was missing.
+2024/07/09-20:21:04.452 42f Reusing MANIFEST /home/viamn/.config/chromium/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/07/09-20:21:04.588 430 Level-0 table #5: started
+2024/07/09-20:21:04.590 430 Level-0 table #5: 3179 bytes OK
+2024/07/09-20:21:04.592 430 Delete type=0 #3
+2024/07/09-20:21:04.592 430 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/09-20:21:06.790 432 Level-0 table #7: started
+2024/07/09-20:21:06.791 432 Level-0 table #7: 3710 bytes OK
+2024/07/09-20:21:06.792 432 Delete type=0 #4
+2024/07/09-20:21:06.793 432 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/09-20:21:06.793 432 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x01\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 223 : 1
+2024/07/09-20:21:06.793 432 Compacting 1@1 + 1@2 files
+2024/07/09-20:21:06.794 432 Generated table #8@1: 38 keys, 993 bytes
+2024/07/09-20:21:06.794 432 Compacted 1@1 + 1@2 files => 993 bytes
+2024/07/09-20:21:06.796 432 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/09-20:21:06.796 432 Delete type=2 #7
+2024/07/09-20:21:06.796 432 Delete type=2 #5
+2024/07/09-20:21:06.796 432 Manual compaction at level-1 from '\x00\x03\x01\x01\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 223 : 1 .. (end); will stop at (end)

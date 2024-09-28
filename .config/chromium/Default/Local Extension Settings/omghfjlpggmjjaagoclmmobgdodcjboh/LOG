@@ -1,0 +1,16 @@
+2024/08/19-19:26:33.573 513 Reusing MANIFEST /home/viamn/.config/chromium/Default/Local Extension Settings/omghfjlpggmjjaagoclmmobgdodcjboh/MANIFEST-000001
+2024/08/19-19:26:33.573 513 Recovering log #23
+2024/08/19-19:26:33.574 513 Reusing old log /home/viamn/.config/chromium/Default/Local Extension Settings/omghfjlpggmjjaagoclmmobgdodcjboh/000023.log 
+2024/08/19-19:26:34.599 515 Compacting 1@1 + 1@2 files
+2024/08/19-19:26:34.605 515 Generated table #26@1: 50 keys, 132436 bytes
+2024/08/19-19:26:34.605 515 Compacted 1@1 + 1@2 files => 132436 bytes
+2024/08/19-19:26:34.607 515 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/19-19:47:03.627 513 Level-0 table #28: started
+2024/08/19-19:47:03.638 513 Level-0 table #28: 631921 bytes OK
+2024/08/19-19:47:03.641 513 Delete type=2 #22
+2024/08/19-19:47:03.642 513 Delete type=2 #24
+2024/08/19-19:47:03.642 513 Delete type=0 #23
+2024/08/19-19:51:33.452 515 Compacting 1@1 + 1@2 files
+2024/08/19-19:51:33.463 515 Generated table #29@1: 50 keys, 144925 bytes
+2024/08/19-19:51:33.463 515 Compacted 1@1 + 1@2 files => 144925 bytes
+2024/08/19-19:51:33.465 515 compacted to: files[ 0 0 1 0 0 0 0 ]

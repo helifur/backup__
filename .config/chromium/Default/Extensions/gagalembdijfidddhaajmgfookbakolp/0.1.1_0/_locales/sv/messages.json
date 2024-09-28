@@ -1,0 +1,38 @@
+{
+   "appDesc": {
+      "message": "Behöver du YouTube upplåst? YouTube Booster appen är ett viktigt verktyg när du stöter på problem med att tjänsten inte fungerar!"
+   },
+   "appName": {
+      "message": "YouTube Upplåst | YouTube Booster"
+   },
+   "connected": {
+      "message": "Ansluten"
+   },
+   "connecting": {
+      "message": "Ansluter"
+   },
+   "disconnected": {
+      "message": "Anslut"
+   },
+   "error": {
+      "message": "Fel"
+   },
+   "rateUs": {
+      "message": "BETYGSÄTT OSS"
+   },
+   "reasons": {
+      "message": "\u003Cb>Orsaker:\u003C/b>\u003Cbr>\u003Cbr>1. Inaktivera andra tillägg och VPN\u003Cbr>2. Uppdatera videosidan\u003Cbr>3. Öppna inte flera YouTube-flikar samtidigt\u003Cbr>4. Kontakta oss \u003C/span>"
+   },
+   "slogan": {
+      "message": "En av de snabbaste proxyåtkomster\u003Cbr>\u003Cb>till YouTube\u003C/b>"
+   },
+   "subscribe": {
+      "message": "Subscribe!"
+   },
+   "support": {
+      "message": "Kontakta supporten"
+   },
+   "whydidntwork": {
+      "message": "Varför fungerar det inte?"
+   }
+}

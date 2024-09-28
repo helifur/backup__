@@ -1,0 +1,13 @@
+2024/07/09-20:23:28.967 43e Reusing MANIFEST /home/viamn/.config/chromium/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/07/09-20:23:28.967 43e Recovering log #6
+2024/07/09-20:23:28.967 43e Reusing old log /home/viamn/.config/chromium/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/000006.log 
+2024/07/09-20:23:29.105 46d Level-0 table #11: started
+2024/07/09-20:23:29.107 46d Level-0 table #11: 687 bytes OK
+2024/07/09-20:23:29.109 46d Delete type=0 #6
+2024/07/09-20:23:29.109 46d Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/09-20:23:29.109 46d Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 260 : 0
+2024/07/09-20:23:29.109 46d Compacting 1@1 + 1@2 files
+2024/07/09-20:23:29.111 46d Generated table #12@1: 23 keys, 776 bytes
+2024/07/09-20:23:29.111 46d Compacted 1@1 + 1@2 files => 776 bytes
+2024/07/09-20:23:29.113 46d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/09-20:23:29.113 441 Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 260 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

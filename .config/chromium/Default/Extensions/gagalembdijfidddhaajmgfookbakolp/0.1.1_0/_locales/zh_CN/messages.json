@@ -1,0 +1,38 @@
+{
+   "appDesc": {
+      "message": "需要解锁 YouTube 吗？当你遇到服务无法正常工作的问题时，YouTube 加速器应用是必备工具！"
+   },
+   "appName": {
+      "message": "YouTube 解锁 | YouTube 加速器"
+   },
+   "connected": {
+      "message": "已连接"
+   },
+   "connecting": {
+      "message": "连接中"
+   },
+   "disconnected": {
+      "message": "连接"
+   },
+   "error": {
+      "message": "错误"
+   },
+   "rateUs": {
+      "message": "评价我们"
+   },
+   "reasons": {
+      "message": "\u003Cb>原因：\u003C/b>\u003Cbr>\u003Cbr>1. 禁用其他扩展程序和 VPN\u003Cbr>2. 刷新视频页面\u003Cbr>3. 不要同时打开多个 YouTube 标签\u003Cbr>4. 联系我们 \u003C/span>"
+   },
+   "slogan": {
+      "message": "最快的代理访问之一\u003Cbr>\u003Cb>到 YouTube\u003C/b>"
+   },
+   "subscribe": {
+      "message": "Subscribe!"
+   },
+   "support": {
+      "message": "联系支持"
+   },
+   "whydidntwork": {
+      "message": "为什么不工作？"
+   }
+}

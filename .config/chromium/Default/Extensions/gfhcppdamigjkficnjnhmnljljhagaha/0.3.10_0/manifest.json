@@ -1,0 +1,44 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "APV3_Icon_2d_2c_128.png",
+         "16": "APV3_Icon_2d_2c_16.png",
+         "32": "APV3_Icon_2d_2c_32.png",
+         "48": "APV3_Icon_2d_2c_48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "AudioPick"
+   },
+   "author": "necropola@rain-fighters.net",
+   "background": {
+      "service_worker": "worker.js"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "main.js" ],
+      "matches": [ "https://*/*" ],
+      "world": "MAIN"
+   }, {
+      "all_frames": false,
+      "js": [ "content.js" ],
+      "matches": [ "https://*/*" ],
+      "world": "ISOLATED"
+   } ],
+   "description": "Pick a preferred audio output device for HTML5 audio and video elements",
+   "homepage_url": "https://rain-fighters.github.io/AudioPick/",
+   "host_permissions": [ "https://*/*" ],
+   "icons": {
+      "128": "APV3_Icon_2d_2c_128.png",
+      "16": "APV3_Icon_2d_2c_16.png",
+      "32": "APV3_Icon_2d_2c_32.png",
+      "48": "APV3_Icon_2d_2c_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArrK01o7FjGbkk6yva1pQ8IaOF0ZGrHToUH1JvYQPRrVcfTrmUf3StKjmdPOMB7+jYrHLagGKFRtmtgefswS3hsIUJ6RvJB2Pka+McgTj1jBZLN2HDKRafDt3qJ+rpzhuLfpyAtsmIm4du+fQKaFIrKvYp+tdwrs6GmToibRfcZ1zZp4Gu3C3KLcxWmWjsBe02/VXkqC/PrtsQ09Cb8luamdFeA6d5gQHC/XUlokBz7TazzlnLkqge7UQOA6CmhfJXm6ZEepGTmvuGY7kQHttLS5qYBWKECkf4jaHT+bvlfP5Pt/TWOvLxhup82QS1hOxFUYyg3FKrA3lQG7j+n7lAQIDAQAB",
+   "manifest_version": 3,
+   "name": "AudioPick",
+   "permissions": [ "contentSettings", "storage", "scripting", "activeTab", "favicon" ],
+   "short_name": "AudioPick",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.3.10",
+   "version_name": "0.3.10"
+}

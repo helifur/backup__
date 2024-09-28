@@ -1,0 +1,7 @@
+2024/09/18-21:36:56.857 527 Reusing MANIFEST /home/viamn/.config/chromium/Default/WebStorage/80/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/18-21:36:56.857 527 Recovering log #3
+2024/09/18-21:36:56.858 527 Reusing old log /home/viamn/.config/chromium/Default/WebStorage/80/IndexedDB/indexeddb.leveldb/000003.log 
+2024/09/18-21:37:26.780 529 Level-0 table #5: started
+2024/09/18-21:37:26.782 529 Level-0 table #5: 4479 bytes OK
+2024/09/18-21:37:26.784 529 Delete type=0 #3
+2024/09/18-21:37:26.784 529 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

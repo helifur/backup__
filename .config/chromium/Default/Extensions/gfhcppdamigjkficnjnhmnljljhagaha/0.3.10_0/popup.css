@@ -1,0 +1,349 @@
+:root {
+	/* Fonts we have used originally
+	--sans-font: Noto, "Segoe UI", Arial, Helvetica, sans-serif;
+	--mono-font: Consolas, "Noto Sans Mono", Menlo, Monaco, monospace;
+	*/
+
+	/* GitHub websafe fonts */
+	--sans-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+	--mono-font: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+
+	--base-font-size: 1rem;
+	--medium-font-size: .9rem;
+	--mono-font-size: .8125rem;
+	--small-font-size: .8rem;
+	--tiny-font-size: .625rem;
+	--line-height: 1.5;
+	--min-content-width: 38rem;
+
+	--logo-red: #D04949;
+	--logo-green: #00C25E;
+	--logo-blue: #3D67FF;
+	--logo-yellow: #F5B62E;
+	--logo-white: #E0E0E0;
+	--logo-gray: #727C92;
+	--logo-black: #121322;
+
+	--bg: #F0F0F0;
+	--accent-bg: #E8E8E8;
+	--text: #212121;
+	--text-light: #585858;
+	--border: #D8DAE1;
+	--accent: var(--logo-blue);
+	--accent-light: var(--logo-green);
+	--code: var(--text);
+	--preformatted: var(--text);
+	--disabled: #808080;
+
+	--animation-color: var(--logo-green);
+	--animation-play-state: running;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+	:root {
+		--bg: #212121;
+		--accent-bg: #2B2B2B;
+		--text: #DCDCDC;
+		--text-light: #ABABAB;
+		--border: #666;
+		--accent: var(--logo-blue);
+		--accent-light: var(--logo-green);
+		--code: var(--text);
+		--preformatted: var(--text);
+		--disabled: #808080;
+	}
+}
+
+@media (prefers-reduced-motion) {
+	:root {
+		--animation-play-state: paused;
+	}
+}
+
+html {
+	color-scheme: light dark;
+}
+
+body {
+	color: var(--text);
+	background: var(--bg);
+	font-family: var(--sans-font);
+	font-size: var(--base-font-size);
+	line-height: var(--line-height);
+	padding: 0;
+	width: auto;
+	margin: auto;
+}
+
+header { /* a>h1>svg | div>svg | div>text | div>space | img */
+	background: var(--accent-bg);
+	border-bottom: 1px solid var(--border);
+	margin: 0;
+	padding: .5rem;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	align-items: center;
+	min-width: var(--min-content-width);
+}
+header img { width: 2rem; height: 2rem; }
+
+a, a:visited {
+	color: inherit;
+	text-decoration: none;
+}
+
+a:hover {
+	color: var(--accent-light);
+	text-decoration: underline var(--accent) .2rem;
+}
+
+a:focus, input:focus {
+	outline: none;
+}
+
+svg.lucide {
+	stroke: currentColor;
+	width: 1rem;
+	height: 1rem;
+}
+
+header a h1 svg.lucide {
+	width: 1.25rem;
+	height: 1.25rem;
+	stroke-width: 3;
+}
+
+@keyframes blend-in-and-out {
+	0%   { opacity: 1.0; color: var(--text-light); }
+	20%  { opacity: 0.2; color: var(--animation-color); }
+	40%  { opacity: 1.0; color: var(--animation-color); }
+	60%  { opacity: 1.0; color: var(--animation-color); }
+	80%  { opacity: 0.2; color: var(--animation-color); }
+	100% { opacity: 1.0; color: var(--text-light); }
+}
+
+header div {
+	display: inline-block;
+	text-align: left;
+	font-size: var(--small-font-size);
+	color: var(--text-light);
+	animation-name: blend-in-and-out;
+	animation-delay: 1s;
+	animation-duration: 3s;
+	animation-iteration-count: 1;
+	animation-play-state: paused;
+	opacity: 1.0;
+	min-width: 4rem;
+}
+
+div.animation-enabled {
+	animation-play-state: var(--animation-play-state);
+}
+
+header div:nth-child(2) { /* div for svg.lucide "chevrons-left" */
+	opacity: 1.0;
+	min-width: 2rem;
+}
+
+header div:nth-child(2) svg.lucide { /* svg.lucide "chevrons-left" */
+	width: 2rem;
+	height: 2rem;
+	stroke-width: 2;
+	display: block;
+	margin: auto;
+}
+
+header div:nth-child(3) { /* message */
+	width: 17rem;
+}
+
+h1 { /* only used in header */
+	font-size: calc(var(--base-font-size) * 1.25);
+	font-weight: bold;
+	margin: 0;
+}
+
+h2 { /* only used in main */
+	font-size: calc(var(--base-font-size) * 1.0);
+	font-weight: bold;
+	margin: 0;
+}
+
+main {
+	margin: 0;
+	padding: .5rem;
+	min-width: var(--min-content-width);
+}
+
+table {
+	width: 100%;
+	margin-top: .5rem;
+	margin-bottom: .5rem;
+	border-collapse: collapse;
+	background: var(--accent-bg);
+}
+
+td {
+	text-align: left;
+	vertical-align: middle;
+	padding: .5rem;
+	border-top: 1px solid var(--bg);
+	border-bottom: 1px solid var(--bg);
+}
+
+tr:first-child td {
+	border-top: 1px solid var(--border);
+	border-bottom: 1px solid var(--border);
+}
+
+tr:nth-child(2) td {
+	border-top: 1px solid var(--border);
+}
+
+tr:first-child td:first-child img { /* table first row, favicon */
+	padding: 0;
+	margin: auto;
+	width: 1.25rem;
+	height: 1.25rem;
+	text-align: center;
+	vertical-align: baseline;
+}
+
+tr:first-child td:nth-child(2) { /* table first row, site */
+	font-family: var(--mono-font);
+	font-size: var(--mono-font-size);
+	font-weight: bold;
+	overflow-wrap: anywhere;
+}
+
+/* from second row onwards ... */
+tr ~ tr td:first-child { /* <input type="radio"/>  */
+	width: 0;
+	text-align: center;
+}
+
+tr ~ tr td:nth-child(2) { /* <label>...</label> */
+	min-width: 90%;
+}
+
+tr ~ tr td:nth-child(3) { /* <text>&&#9733;</text> */
+	width: 0;
+	text-align: right;
+	color: var(--logo-yellow);
+}
+
+tr.disabled > td {
+	color: var(--disabled);
+	font-style: italic;
+}
+
+tr.disabled > td img {
+	opacity: 0.75;
+}
+
+td.micPolicy-prompt {
+	color: var(--logo-blue);
+}
+
+td.micPolicy-granted {
+	color: var(--logo-green);
+}
+
+tr.disabled td.micPolicy-denied {
+	color: var(--logo-red);
+}
+
+td label {
+	font-family: var(--mono-font);
+	font-size: var(--mono-font-size);
+	overflow-wrap: anywhere;
+}
+
+td label span {
+	color: var(--disabled);
+	font-style: italic;
+}
+
+main nav {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	align-items: center;
+}
+
+main nav.options div {
+	display: inline-block;
+	min-width: 2rem;
+}
+
+main nav.options div input {
+	vertical-align: bottom;
+}
+
+main nav.options div label {
+	font-family: var(--sans-font);
+	font-size: var(--small-font-size);
+	vertical-align: bottom;
+}
+
+main nav.buttons {
+	margin-top: 0.5rem;
+}
+
+button {
+	vertical-align: middle;
+	text-align: center;
+	font-size: var(--medium-font-size);
+	border: 1px solid var(--border);
+	outline: none;
+	background-color: var(--accent-bg);
+	color: var(--text);
+	width: 12rem;
+	height: 2.25rem;
+}
+
+button:hover {
+	font-weight: bold;
+	background-color: var(--logo-blue);
+	color: var(--logo-white);
+}
+
+button[disabled], button[disabled]:hover {
+	font-weight: normal;
+	font-style: italic;
+	background-color: var(--bg);
+	color: var(--border);
+}
+
+button#cancel:hover {
+	background-color: var(--logo-red);
+	color: var(--logo-white);
+}
+
+footer {
+	background: var(--accent-bg);
+	border-top: 1px solid var(--border);
+	margin: 0;
+	padding: .5rem;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	min-width: var(--min-content-width);
+	font-weight: bold;
+	font-size: var(--small-font-size);
+	color: var(--text-light);
+}
+
+footer a {
+/* make both links same width to center the error message */
+	width: 9rem;
+}
+
+footer a ~ a {
+	text-align: right;
+}
+
+footer span { /* error/status message */
+	color: var(--logo-red);
+}

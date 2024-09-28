@@ -1,0 +1,12 @@
+2024/08/20-13:07:31.752 4de Reusing MANIFEST /home/viamn/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/20-13:07:31.753 4de Recovering log #6
+2024/08/20-13:07:31.770 4de Reusing old log /home/viamn/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000006.log 
+2024/08/20-13:11:40.527 4e0 Level-0 table #11: started
+2024/08/20-13:11:40.551 4e0 Level-0 table #11: 1527370 bytes OK
+2024/08/20-13:11:40.554 4e0 Delete type=0 #6
+2024/08/20-13:21:05.219 4de Compacting 1@1 + 1@2 files
+2024/08/20-13:21:05.237 4de Generated table #12@1: 1647 keys, 453178 bytes
+2024/08/20-13:21:05.237 4de Compacted 1@1 + 1@2 files => 453178 bytes
+2024/08/20-13:21:05.238 4de compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/20-13:21:05.239 4de Delete type=2 #8
+2024/08/20-13:21:05.239 4de Delete type=2 #11

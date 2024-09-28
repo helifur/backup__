@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Translator for web pages. Translate words and phrases. Full page translator based on Google Translate."
+   },
+   "name": {
+      "message": "Google Translate"
+   }
+}

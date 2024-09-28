@@ -1,0 +1,38 @@
+{
+   "appDesc": {
+      "message": "Brauchen Sie YouTube entsperrt? Die YouTube Booster-App ist unverzichtbares Werkzeug, wenn Sie auf Probleme mit dem Dienst stoßen!"
+   },
+   "appName": {
+      "message": "YouTube Entsperrt | YouTube Booster"
+   },
+   "connected": {
+      "message": "Connected"
+   },
+   "connecting": {
+      "message": "Connecting"
+   },
+   "disconnected": {
+      "message": "Connect"
+   },
+   "error": {
+      "message": "Error"
+   },
+   "rateUs": {
+      "message": "RATE US"
+   },
+   "reasons": {
+      "message": "\u003Cb>Reasons:\u003C/b>\n 1. Disable other extensions and VPNs\n 2. Refresh the video page\n 3. Do not open multiple YouTube tabs simultaneously\n 4. Contact us \u003C/span>"
+   },
+   "slogan": {
+      "message": "The one of the Fastest proxied Access\u003Cb>to YouTube\u003C/b>"
+   },
+   "subscribe": {
+      "message": "Subscribe!"
+   },
+   "support": {
+      "message": "Contact Support"
+   },
+   "whydidntwork": {
+      "message": "Why it doesn't work?"
+   }
+}

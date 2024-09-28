@@ -1,0 +1,6 @@
+2024/09/01-20:24:38.744 2696 Creating DB /home/viamn/.config/chromium/Default/IndexedDB/https_lenta.ru_0.indexeddb.leveldb since it was missing.
+2024/09/01-20:24:38.747 2696 Reusing MANIFEST /home/viamn/.config/chromium/Default/IndexedDB/https_lenta.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/01-20:26:55.615 268d Level-0 table #5: started
+2024/09/01-20:26:55.617 268d Level-0 table #5: 11424 bytes OK
+2024/09/01-20:26:55.619 268d Delete type=0 #3
+2024/09/01-20:26:55.620 268d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

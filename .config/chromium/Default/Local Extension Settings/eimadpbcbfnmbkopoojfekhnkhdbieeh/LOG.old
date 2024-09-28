@@ -1,0 +1,84 @@
+2024/09/27-21:26:40.637 47e6 Reusing MANIFEST /home/viamn/.config/chromium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2024/09/27-21:26:40.638 47e6 Recovering log #58
+2024/09/27-21:26:40.640 47e6 Reusing old log /home/viamn/.config/chromium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000058.log 
+2024/09/27-21:26:50.013 47f1 Level-0 table #62: started
+2024/09/27-21:26:50.023 47f1 Level-0 table #62: 1757340 bytes OK
+2024/09/27-21:26:50.026 47f1 Delete type=0 #58
+2024/09/27-21:29:08.170 47f2 Level-0 table #64: started
+2024/09/27-21:29:08.183 47f2 Level-0 table #64: 1751671 bytes OK
+2024/09/27-21:29:08.185 47f2 Delete type=0 #61
+2024/09/27-21:36:14.280 47f0 Level-0 table #66: started
+2024/09/27-21:36:14.292 47f0 Level-0 table #66: 1748278 bytes OK
+2024/09/27-21:36:14.295 47f0 Delete type=0 #63
+2024/09/27-21:36:14.297 47f0 Compacting 4@0 + 1@1 files
+2024/09/27-21:36:14.303 47f0 Generated table #67@0: 1 keys, 43550 bytes
+2024/09/27-21:36:14.303 47f0 Compacted 4@0 + 1@1 files => 43550 bytes
+2024/09/27-21:36:14.304 47f0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/27-21:36:14.305 47f0 Delete type=2 #66
+2024/09/27-21:36:14.305 47f0 Delete type=2 #64
+2024/09/27-21:36:14.305 47f0 Delete type=2 #57
+2024/09/27-21:36:14.305 47f0 Delete type=2 #59
+2024/09/27-21:36:14.305 47f0 Delete type=2 #62
+2024/09/27-21:40:57.858 47e5 Level-0 table #69: started
+2024/09/27-21:40:57.870 47e5 Level-0 table #69: 1758080 bytes OK
+2024/09/27-21:40:57.874 47e5 Delete type=0 #65
+2024/09/27-21:47:43.716 47f2 Level-0 table #71: started
+2024/09/27-21:47:43.728 47f2 Level-0 table #71: 1758454 bytes OK
+2024/09/27-21:47:43.731 47f2 Delete type=0 #68
+2024/09/27-21:57:30.718 47f2 Level-0 table #73: started
+2024/09/27-21:57:30.728 47f2 Level-0 table #73: 1751897 bytes OK
+2024/09/27-21:57:30.731 47f2 Delete type=0 #70
+2024/09/27-22:06:55.719 47f1 Level-0 table #75: started
+2024/09/27-22:06:55.730 47f1 Level-0 table #75: 1751882 bytes OK
+2024/09/27-22:06:55.732 47f1 Delete type=0 #72
+2024/09/27-22:06:55.734 47f1 Compacting 4@0 + 1@1 files
+2024/09/27-22:06:55.742 47f1 Generated table #76@0: 1 keys, 43923 bytes
+2024/09/27-22:06:55.742 47f1 Compacted 4@0 + 1@1 files => 43923 bytes
+2024/09/27-22:06:55.743 47f1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/27-22:06:55.743 47f1 Delete type=2 #75
+2024/09/27-22:06:55.744 47f1 Delete type=2 #71
+2024/09/27-22:06:55.744 47f1 Delete type=2 #69
+2024/09/27-22:06:55.744 47f1 Delete type=2 #67
+2024/09/27-22:06:55.744 47f1 Delete type=2 #73
+2024/09/27-22:14:19.227 47e4 Level-0 table #78: started
+2024/09/27-22:14:19.237 47e4 Level-0 table #78: 1753088 bytes OK
+2024/09/27-22:14:19.239 47e4 Delete type=0 #74
+2024/09/27-22:23:45.363 47e4 Level-0 table #80: started
+2024/09/27-22:23:45.372 47e4 Level-0 table #80: 1751775 bytes OK
+2024/09/27-22:23:45.375 47e4 Delete type=0 #77
+2024/09/27-22:32:36.717 47f2 Level-0 table #82: started
+2024/09/27-22:32:36.728 47f2 Level-0 table #82: 1752636 bytes OK
+2024/09/27-22:32:36.731 47f2 Delete type=0 #79
+2024/09/27-22:41:13.719 47f2 Level-0 table #84: started
+2024/09/27-22:41:13.731 47f2 Level-0 table #84: 1752885 bytes OK
+2024/09/27-22:41:13.734 47f2 Delete type=0 #81
+2024/09/27-22:41:13.736 47f2 Compacting 4@0 + 1@1 files
+2024/09/27-22:41:13.742 47f2 Generated table #85@0: 1 keys, 43941 bytes
+2024/09/27-22:41:13.743 47f2 Compacted 4@0 + 1@1 files => 43941 bytes
+2024/09/27-22:41:13.744 47f2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/27-22:41:13.744 47f2 Delete type=2 #80
+2024/09/27-22:41:13.744 47f2 Delete type=2 #82
+2024/09/27-22:41:13.744 47f2 Delete type=2 #78
+2024/09/27-22:41:13.744 47f2 Delete type=2 #84
+2024/09/27-22:41:13.744 47f2 Delete type=2 #76
+2024/09/27-22:50:40.717 47f1 Level-0 table #87: started
+2024/09/27-22:50:40.728 47f1 Level-0 table #87: 1752910 bytes OK
+2024/09/27-22:50:40.731 47f1 Delete type=0 #83
+2024/09/27-23:00:05.715 47e5 Level-0 table #89: started
+2024/09/27-23:00:05.727 47e5 Level-0 table #89: 1752940 bytes OK
+2024/09/27-23:00:05.730 47e5 Delete type=0 #86
+2024/09/27-23:09:35.720 47e5 Level-0 table #91: started
+2024/09/27-23:09:35.732 47e5 Level-0 table #91: 1752914 bytes OK
+2024/09/27-23:09:35.736 47e5 Delete type=0 #88
+2024/09/27-23:40:36.920 47f1 Level-0 table #93: started
+2024/09/27-23:40:36.933 47f1 Level-0 table #93: 1752091 bytes OK
+2024/09/27-23:40:36.937 47f1 Delete type=0 #90
+2024/09/27-23:40:36.939 47f1 Compacting 4@0 + 1@1 files
+2024/09/27-23:40:36.951 47f1 Generated table #94@0: 1 keys, 43817 bytes
+2024/09/27-23:40:36.951 47f1 Compacted 4@0 + 1@1 files => 43817 bytes
+2024/09/27-23:40:36.953 47f1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/27-23:40:36.953 47f1 Delete type=2 #91
+2024/09/27-23:40:36.953 47f1 Delete type=2 #87
+2024/09/27-23:40:36.953 47f1 Delete type=2 #93
+2024/09/27-23:40:36.953 47f1 Delete type=2 #85
+2024/09/27-23:40:36.953 47f1 Delete type=2 #89

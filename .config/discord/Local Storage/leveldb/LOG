@@ -1,0 +1,11 @@
+2024/09/27-18:41:08.948 af0 Creating DB /home/viamn/.config/discord/Local Storage/leveldb since it was missing.
+2024/09/27-18:41:08.953 af0 Reusing MANIFEST /home/viamn/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/09/27-18:45:35.700 af2 Level-0 table #5: started
+2024/09/27-18:45:35.721 af2 Level-0 table #5: 848046 bytes OK
+2024/09/27-18:45:35.724 af2 Delete type=0 #3
+2024/09/27-18:46:33.413 af2 Level-0 table #7: started
+2024/09/27-18:46:33.428 af2 Level-0 table #7: 2418211 bytes OK
+2024/09/27-18:46:33.430 af2 Delete type=0 #4
+2024/09/28-00:08:36.117 af2 Level-0 table #9: started
+2024/09/28-00:08:36.120 af2 Level-0 table #9: 33484 bytes OK
+2024/09/28-00:08:36.122 af2 Delete type=0 #6

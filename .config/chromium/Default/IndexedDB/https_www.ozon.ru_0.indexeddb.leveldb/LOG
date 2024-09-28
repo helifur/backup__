@@ -1,0 +1,6 @@
+2024/08/30-17:13:21.818 90b Creating DB /home/viamn/.config/chromium/Default/IndexedDB/https_www.ozon.ru_0.indexeddb.leveldb since it was missing.
+2024/08/30-17:13:21.823 90b Reusing MANIFEST /home/viamn/.config/chromium/Default/IndexedDB/https_www.ozon.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/30-17:21:55.014 90c Level-0 table #5: started
+2024/08/30-17:21:55.020 90c Level-0 table #5: 290998 bytes OK
+2024/08/30-17:21:55.021 90c Delete type=0 #3
+2024/08/30-17:21:55.022 90c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

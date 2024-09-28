@@ -1,0 +1,13 @@
+2024/09/28-19:58:41.718 ed6 Reusing MANIFEST /home/viamn/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/28-19:58:41.718 ed6 Recovering log #231
+2024/09/28-19:58:41.718 ed6 Reusing old log /home/viamn/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000231.log 
+2024/09/28-19:58:41.737 eec Level-0 table #236: started
+2024/09/28-19:58:41.739 eec Level-0 table #236: 6623 bytes OK
+2024/09/28-19:58:41.741 eec Delete type=0 #231
+2024/09/28-19:58:41.741 ed5 Manual compaction at level-0 from '\x00B\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/28-19:59:30.073 ed5 Compacting 1@1 + 1@2 files
+2024/09/28-19:59:30.077 ed5 Generated table #237@1: 57 keys, 3869 bytes
+2024/09/28-19:59:30.077 ed5 Compacted 1@1 + 1@2 files => 3869 bytes
+2024/09/28-19:59:30.079 ed5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/28-19:59:30.079 ed5 Delete type=2 #236
+2024/09/28-19:59:30.079 ed5 Delete type=2 #233

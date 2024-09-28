@@ -1,0 +1,12 @@
+2024/09/27-18:36:50.478 d6b Reusing MANIFEST /home/viamn/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/27-18:36:50.478 d6b Recovering log #78
+2024/09/27-18:36:50.485 d6b Reusing old log /home/viamn/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000078.log 
+2024/09/27-18:37:53.889 d6b Level-0 table #83: started
+2024/09/27-18:37:53.904 d6b Level-0 table #83: 2028977 bytes OK
+2024/09/27-18:37:53.908 d6b Delete type=0 #78
+2024/09/27-18:39:29.100 d6c Compacting 1@1 + 1@2 files
+2024/09/27-18:39:29.112 d6c Generated table #84@1: 354 keys, 75468 bytes
+2024/09/27-18:39:29.113 d6c Compacted 1@1 + 1@2 files => 75468 bytes
+2024/09/27-18:39:29.114 d6c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/27-18:39:29.114 d6c Delete type=2 #80
+2024/09/27-18:39:29.114 d6c Delete type=2 #83

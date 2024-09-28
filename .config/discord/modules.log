@@ -1,0 +1,704 @@
+2024-09-27T15:41:08.959Z [Modules] Modules initializing
+2024-09-27T15:41:08.960Z [Modules] Distribution: remote
+2024-09-27T15:41:08.960Z [Modules] Host updates: enabled
+2024-09-27T15:41:08.960Z [Modules] Module updates: enabled
+2024-09-27T15:41:08.960Z [Modules] Module install path: /home/viamn/.config/discord/0.0.69/modules
+2024-09-27T15:41:08.960Z [Modules] Module installed file path: /home/viamn/.config/discord/0.0.69/modules/installed.json
+2024-09-27T15:41:08.960Z [Modules] Module download path: /home/viamn/.config/discord/0.0.69/modules/pending
+2024-09-27T15:41:09.160Z [Modules] Bootstrapping...
+2024-09-27T15:41:09.161Z [Modules] Installing discord_desktop_core@0 from /usr/lib/discord/resources/bootstrap/discord_desktop_core.zip
+2024-09-27T15:41:09.165Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/usr/lib/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-09-27T15:41:09.166Z [Modules] Installing discord_erlpack@0 from /usr/lib/discord/resources/bootstrap/discord_erlpack.zip
+2024-09-27T15:41:09.169Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/usr/lib/discord/resources/bootstrap/discord_erlpack.zip'
+2024-09-27T15:41:09.170Z [Modules] Installing discord_spellcheck@0 from /usr/lib/discord/resources/bootstrap/discord_spellcheck.zip
+2024-09-27T15:41:09.171Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/usr/lib/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-09-27T15:41:09.172Z [Modules] Installing discord_utils@0 from /usr/lib/discord/resources/bootstrap/discord_utils.zip
+2024-09-27T15:41:09.173Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/usr/lib/discord/resources/bootstrap/discord_utils.zip'
+2024-09-27T15:41:09.174Z [Modules] Installing discord_voice@0 from /usr/lib/discord/resources/bootstrap/discord_voice.zip
+2024-09-27T15:41:09.175Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/usr/lib/discord/resources/bootstrap/discord_voice.zip'
+2024-09-27T15:41:09.176Z [Modules] Installing discord_zstd@0 from /usr/lib/discord/resources/bootstrap/discord_zstd.zip
+2024-09-27T15:41:09.178Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/usr/lib/discord/resources/bootstrap/discord_zstd.zip'
+2024-09-27T15:41:09.179Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-09-27T15:41:09.179Z [Modules] Checking for host updates.
+2024-09-27T15:41:09.542Z [Modules] Host is up to date.
+2024-09-27T15:41:09.542Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T15:41:09.616Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-09-27T15:41:09.616Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-09-27T15:41:09.616Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-09-27T15:41:09.616Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-09-27T15:41:09.616Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-09-27T15:41:09.616Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-09-27T15:41:09.616Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-09-27T15:41:09.617Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip
+2024-09-27T15:41:10.616Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 1%
+2024-09-27T15:41:10.619Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 2%
+2024-09-27T15:41:10.763Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 3%
+2024-09-27T15:41:10.766Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 4%
+2024-09-27T15:41:11.003Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 5%
+2024-09-27T15:41:11.006Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 7%
+2024-09-27T15:41:11.009Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 8%
+2024-09-27T15:41:11.197Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 9%
+2024-09-27T15:41:11.201Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 10%
+2024-09-27T15:41:11.204Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 11%
+2024-09-27T15:41:11.207Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 12%
+2024-09-27T15:41:11.210Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 14%
+2024-09-27T15:41:11.214Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 15%
+2024-09-27T15:41:11.217Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 16%
+2024-09-27T15:41:11.220Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 17%
+2024-09-27T15:41:11.223Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 18%
+2024-09-27T15:41:11.227Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 20%
+2024-09-27T15:41:11.351Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 21%
+2024-09-27T15:41:11.354Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 23%
+2024-09-27T15:41:11.357Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 24%
+2024-09-27T15:41:11.363Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 27%
+2024-09-27T15:41:11.370Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 29%
+2024-09-27T15:41:11.371Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 30%
+2024-09-27T15:41:11.379Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 33%
+2024-09-27T15:41:11.383Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 34%
+2024-09-27T15:41:11.386Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 35%
+2024-09-27T15:41:11.500Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 36%
+2024-09-27T15:41:11.504Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 37%
+2024-09-27T15:41:11.511Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 39%
+2024-09-27T15:41:11.517Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 41%
+2024-09-27T15:41:11.523Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 43%
+2024-09-27T15:41:11.530Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 45%
+2024-09-27T15:41:11.536Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 46%
+2024-09-27T15:41:11.539Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 47%
+2024-09-27T15:41:11.544Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 48%
+2024-09-27T15:41:11.546Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 49%
+2024-09-27T15:41:11.549Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 50%
+2024-09-27T15:41:11.553Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 51%
+2024-09-27T15:41:11.556Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 52%
+2024-09-27T15:41:11.559Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 53%
+2024-09-27T15:41:12.786Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 54%
+2024-09-27T15:41:12.930Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 55%
+2024-09-27T15:41:12.947Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 56%
+2024-09-27T15:41:14.210Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 57%
+2024-09-27T15:41:14.216Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 58%
+2024-09-27T15:41:14.229Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 59%
+2024-09-27T15:41:14.231Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 62%
+2024-09-27T15:41:14.232Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 68%
+2024-09-27T15:41:14.233Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 82%
+2024-09-27T15:41:14.235Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 83%
+2024-09-27T15:41:14.248Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 84%
+2024-09-27T15:41:14.252Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 85%
+2024-09-27T15:41:14.375Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 86%
+2024-09-27T15:41:14.384Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 87%
+2024-09-27T15:41:14.404Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 88%
+2024-09-27T15:41:14.411Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 89%
+2024-09-27T15:41:14.425Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 90%
+2024-09-27T15:41:14.431Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 91%
+2024-09-27T15:41:14.437Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 92%
+2024-09-27T15:41:14.447Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 93%
+2024-09-27T15:41:14.454Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 94%
+2024-09-27T15:41:14.461Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 95%
+2024-09-27T15:41:14.473Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 96%
+2024-09-27T15:41:14.477Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 97%
+2024-09-27T15:41:14.483Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 98%
+2024-09-27T15:41:14.496Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 99%
+2024-09-27T15:41:14.498Z [Modules] Streaming discord_desktop_core@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 100%
+2024-09-27T15:41:14.500Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-09-27T15:41:14.500Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip
+2024-09-27T15:41:14.870Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 1%
+2024-09-27T15:41:14.877Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 2%
+2024-09-27T15:41:14.893Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 3%
+2024-09-27T15:41:14.900Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 4%
+2024-09-27T15:41:14.906Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 5%
+2024-09-27T15:41:14.916Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 6%
+2024-09-27T15:41:14.929Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 7%
+2024-09-27T15:41:14.939Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 8%
+2024-09-27T15:41:14.945Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 9%
+2024-09-27T15:41:14.959Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 10%
+2024-09-27T15:41:14.968Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 11%
+2024-09-27T15:41:14.975Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 12%
+2024-09-27T15:41:14.991Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 13%
+2024-09-27T15:41:14.997Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 14%
+2024-09-27T15:41:15.004Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 15%
+2024-09-27T15:41:15.020Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 16%
+2024-09-27T15:41:15.027Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 17%
+2024-09-27T15:41:15.033Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 18%
+2024-09-27T15:41:15.050Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 19%
+2024-09-27T15:41:15.056Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 20%
+2024-09-27T15:41:15.066Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 21%
+2024-09-27T15:41:15.080Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 22%
+2024-09-27T15:41:15.086Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 23%
+2024-09-27T15:41:15.096Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 24%
+2024-09-27T15:41:15.109Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 25%
+2024-09-27T15:41:15.115Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 26%
+2024-09-27T15:41:15.122Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 27%
+2024-09-27T15:41:15.125Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 28%
+2024-09-27T15:41:15.138Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 29%
+2024-09-27T15:41:15.145Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 30%
+2024-09-27T15:41:15.238Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 33%
+2024-09-27T15:41:15.239Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 37%
+2024-09-27T15:41:15.240Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 40%
+2024-09-27T15:41:15.246Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 41%
+2024-09-27T15:41:15.252Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 42%
+2024-09-27T15:41:15.259Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 43%
+2024-09-27T15:41:15.272Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 44%
+2024-09-27T15:41:15.278Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 45%
+2024-09-27T15:41:15.285Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 46%
+2024-09-27T15:41:15.295Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 47%
+2024-09-27T15:41:15.301Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 48%
+2024-09-27T15:41:15.308Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 49%
+2024-09-27T15:41:15.321Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 50%
+2024-09-27T15:41:15.327Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 51%
+2024-09-27T15:41:15.334Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 52%
+2024-09-27T15:41:15.347Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 53%
+2024-09-27T15:41:15.353Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 54%
+2024-09-27T15:41:15.360Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 55%
+2024-09-27T15:41:15.363Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 56%
+2024-09-27T15:41:15.377Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 57%
+2024-09-27T15:41:15.383Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 58%
+2024-09-27T15:41:15.389Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 59%
+2024-09-27T15:41:15.402Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 60%
+2024-09-27T15:41:15.409Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 61%
+2024-09-27T15:41:15.415Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 62%
+2024-09-27T15:41:15.425Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 63%
+2024-09-27T15:41:15.432Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 64%
+2024-09-27T15:41:15.438Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 65%
+2024-09-27T15:41:15.451Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 66%
+2024-09-27T15:41:15.458Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 67%
+2024-09-27T15:41:15.465Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 68%
+2024-09-27T15:41:15.476Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 69%
+2024-09-27T15:41:15.483Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 70%
+2024-09-27T15:41:15.490Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 71%
+2024-09-27T15:41:15.501Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 72%
+2024-09-27T15:41:15.507Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 73%
+2024-09-27T15:41:15.510Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 74%
+2024-09-27T15:41:15.523Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 75%
+2024-09-27T15:41:15.530Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 76%
+2024-09-27T15:41:15.536Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 77%
+2024-09-27T15:41:15.550Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 78%
+2024-09-27T15:41:15.556Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 79%
+2024-09-27T15:41:15.563Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 80%
+2024-09-27T15:41:15.569Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 81%
+2024-09-27T15:41:15.579Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 82%
+2024-09-27T15:41:15.585Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 83%
+2024-09-27T15:41:15.592Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 84%
+2024-09-27T15:41:15.605Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 85%
+2024-09-27T15:41:15.611Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 86%
+2024-09-27T15:41:15.614Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 87%
+2024-09-27T15:41:15.627Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 88%
+2024-09-27T15:41:15.634Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 89%
+2024-09-27T15:41:15.641Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 90%
+2024-09-27T15:41:15.654Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 91%
+2024-09-27T15:41:15.660Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 92%
+2024-09-27T15:41:15.663Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 93%
+2024-09-27T15:41:15.680Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 94%
+2024-09-27T15:41:15.683Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 95%
+2024-09-27T15:41:15.690Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 96%
+2024-09-27T15:41:15.701Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 97%
+2024-09-27T15:41:15.706Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 98%
+2024-09-27T15:41:15.712Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 99%
+2024-09-27T15:41:15.718Z [Modules] Streaming discord_erlpack@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 100%
+2024-09-27T15:41:15.720Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-09-27T15:41:15.720Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip
+2024-09-27T15:41:16.104Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 1%
+2024-09-27T15:41:16.140Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 2%
+2024-09-27T15:41:16.173Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 3%
+2024-09-27T15:41:16.266Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 4%
+2024-09-27T15:41:16.267Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 5%
+2024-09-27T15:41:16.280Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 6%
+2024-09-27T15:41:16.310Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 7%
+2024-09-27T15:41:16.346Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 8%
+2024-09-27T15:41:16.436Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 9%
+2024-09-27T15:41:16.466Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 10%
+2024-09-27T15:41:16.467Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 11%
+2024-09-27T15:41:16.473Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 12%
+2024-09-27T15:41:16.505Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 13%
+2024-09-27T15:41:16.538Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 14%
+2024-09-27T15:41:16.564Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 15%
+2024-09-27T15:41:16.600Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 16%
+2024-09-27T15:41:16.633Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 17%
+2024-09-27T15:41:16.721Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 18%
+2024-09-27T15:41:16.721Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 19%
+2024-09-27T15:41:16.724Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 20%
+2024-09-27T15:41:16.754Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 21%
+2024-09-27T15:41:16.789Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 22%
+2024-09-27T15:41:16.815Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 23%
+2024-09-27T15:41:16.842Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 24%
+2024-09-27T15:41:16.864Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 25%
+2024-09-27T15:41:16.891Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 26%
+2024-09-27T15:41:16.926Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 27%
+2024-09-27T15:41:16.956Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 28%
+2024-09-27T15:41:16.979Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 29%
+2024-09-27T15:41:17.005Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 30%
+2024-09-27T15:41:17.028Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 31%
+2024-09-27T15:41:17.054Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 32%
+2024-09-27T15:41:17.083Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 33%
+2024-09-27T15:41:17.106Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 34%
+2024-09-27T15:41:17.132Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 35%
+2024-09-27T15:41:17.232Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 36%
+2024-09-27T15:41:17.233Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 37%
+2024-09-27T15:41:17.233Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 38%
+2024-09-27T15:41:17.260Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 39%
+2024-09-27T15:41:17.303Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 40%
+2024-09-27T15:41:17.325Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 41%
+2024-09-27T15:41:17.351Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 42%
+2024-09-27T15:41:17.374Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 43%
+2024-09-27T15:41:17.403Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 44%
+2024-09-27T15:41:17.423Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 45%
+2024-09-27T15:41:17.442Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 46%
+2024-09-27T15:41:17.462Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 47%
+2024-09-27T15:41:17.481Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 48%
+2024-09-27T15:41:17.511Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 49%
+2024-09-27T15:41:17.537Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 50%
+2024-09-27T15:41:17.557Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 51%
+2024-09-27T15:41:17.576Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 52%
+2024-09-27T15:41:17.596Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 53%
+2024-09-27T15:41:17.615Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 54%
+2024-09-27T15:41:17.641Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 55%
+2024-09-27T15:41:17.661Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 56%
+2024-09-27T15:41:17.681Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 57%
+2024-09-27T15:41:17.700Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 58%
+2024-09-27T15:41:17.720Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 59%
+2024-09-27T15:41:17.739Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 60%
+2024-09-27T15:41:17.763Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 61%
+2024-09-27T15:41:17.785Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 62%
+2024-09-27T15:41:17.801Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 63%
+2024-09-27T15:41:17.821Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 64%
+2024-09-27T15:41:17.847Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 65%
+2024-09-27T15:41:17.863Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 66%
+2024-09-27T15:41:17.883Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 67%
+2024-09-27T15:41:17.905Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 68%
+2024-09-27T15:41:17.925Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 69%
+2024-09-27T15:41:17.951Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 70%
+2024-09-27T15:41:17.964Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 71%
+2024-09-27T15:41:17.988Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 72%
+2024-09-27T15:41:18.004Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 73%
+2024-09-27T15:41:18.020Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 74%
+2024-09-27T15:41:18.036Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 75%
+2024-09-27T15:41:18.052Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 76%
+2024-09-27T15:41:18.066Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 77%
+2024-09-27T15:41:18.095Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 78%
+2024-09-27T15:41:18.118Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 79%
+2024-09-27T15:41:18.134Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 80%
+2024-09-27T15:41:18.147Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 81%
+2024-09-27T15:41:18.167Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 82%
+2024-09-27T15:41:18.182Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 83%
+2024-09-27T15:41:18.199Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 84%
+2024-09-27T15:41:18.216Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 85%
+2024-09-27T15:41:18.232Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 86%
+2024-09-27T15:41:18.248Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 87%
+2024-09-27T15:41:18.265Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 88%
+2024-09-27T15:41:18.284Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 89%
+2024-09-27T15:41:18.301Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 90%
+2024-09-27T15:41:18.314Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 91%
+2024-09-27T15:41:18.333Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 92%
+2024-09-27T15:41:18.349Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 93%
+2024-09-27T15:41:18.366Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 94%
+2024-09-27T15:41:18.382Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 95%
+2024-09-27T15:41:18.398Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 96%
+2024-09-27T15:41:18.415Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 97%
+2024-09-27T15:41:18.431Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 98%
+2024-09-27T15:41:18.447Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 99%
+2024-09-27T15:41:18.462Z [Modules] Streaming discord_spellcheck@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 100%
+2024-09-27T15:41:18.464Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-09-27T15:41:18.464Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip
+2024-09-27T15:41:18.797Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 1%
+2024-09-27T15:41:18.803Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 2%
+2024-09-27T15:41:18.807Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 3%
+2024-09-27T15:41:18.813Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 4%
+2024-09-27T15:41:18.820Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 5%
+2024-09-27T15:41:18.823Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 6%
+2024-09-27T15:41:18.829Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 7%
+2024-09-27T15:41:18.833Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 8%
+2024-09-27T15:41:18.840Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 9%
+2024-09-27T15:41:18.846Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 10%
+2024-09-27T15:41:18.852Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 11%
+2024-09-27T15:41:18.856Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 12%
+2024-09-27T15:41:18.862Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 13%
+2024-09-27T15:41:18.869Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 14%
+2024-09-27T15:41:18.872Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 15%
+2024-09-27T15:41:18.879Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 16%
+2024-09-27T15:41:18.882Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 17%
+2024-09-27T15:41:18.888Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 18%
+2024-09-27T15:41:18.891Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 19%
+2024-09-27T15:41:18.895Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 20%
+2024-09-27T15:41:18.901Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 21%
+2024-09-27T15:41:18.905Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 22%
+2024-09-27T15:41:18.908Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 23%
+2024-09-27T15:41:18.914Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 24%
+2024-09-27T15:41:18.918Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 25%
+2024-09-27T15:41:18.921Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 26%
+2024-09-27T15:41:18.928Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 27%
+2024-09-27T15:41:18.931Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 28%
+2024-09-27T15:41:18.934Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 29%
+2024-09-27T15:41:18.940Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 30%
+2024-09-27T15:41:18.944Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 31%
+2024-09-27T15:41:18.947Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 32%
+2024-09-27T15:41:18.953Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 33%
+2024-09-27T15:41:18.960Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 34%
+2024-09-27T15:41:18.967Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 35%
+2024-09-27T15:41:18.976Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 36%
+2024-09-27T15:41:18.983Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 37%
+2024-09-27T15:41:18.989Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 38%
+2024-09-27T15:41:18.993Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 39%
+2024-09-27T15:41:18.999Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 40%
+2024-09-27T15:41:19.002Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 41%
+2024-09-27T15:41:19.006Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 42%
+2024-09-27T15:41:19.012Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 43%
+2024-09-27T15:41:19.016Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 44%
+2024-09-27T15:41:19.023Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 45%
+2024-09-27T15:41:19.026Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 46%
+2024-09-27T15:41:19.032Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 47%
+2024-09-27T15:41:19.035Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 48%
+2024-09-27T15:41:19.042Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 49%
+2024-09-27T15:41:19.045Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 50%
+2024-09-27T15:41:19.051Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 51%
+2024-09-27T15:41:19.055Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 52%
+2024-09-27T15:41:19.058Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 53%
+2024-09-27T15:41:19.065Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 54%
+2024-09-27T15:41:19.068Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 55%
+2024-09-27T15:41:19.071Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 56%
+2024-09-27T15:41:19.078Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 57%
+2024-09-27T15:41:19.081Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 58%
+2024-09-27T15:41:19.084Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 59%
+2024-09-27T15:41:19.091Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 60%
+2024-09-27T15:41:19.094Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 61%
+2024-09-27T15:41:19.097Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 62%
+2024-09-27T15:41:19.104Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 63%
+2024-09-27T15:41:19.107Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 64%
+2024-09-27T15:41:19.114Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 65%
+2024-09-27T15:41:19.117Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 66%
+2024-09-27T15:41:19.123Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 67%
+2024-09-27T15:41:19.126Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 68%
+2024-09-27T15:41:19.133Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 69%
+2024-09-27T15:41:19.136Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 70%
+2024-09-27T15:41:19.139Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 71%
+2024-09-27T15:41:19.143Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 72%
+2024-09-27T15:41:19.150Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 73%
+2024-09-27T15:41:19.153Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 74%
+2024-09-27T15:41:19.159Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 75%
+2024-09-27T15:41:19.162Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 76%
+2024-09-27T15:41:19.169Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 77%
+2024-09-27T15:41:19.172Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 78%
+2024-09-27T15:41:19.176Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 79%
+2024-09-27T15:41:19.182Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 80%
+2024-09-27T15:41:19.185Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 81%
+2024-09-27T15:41:19.192Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 82%
+2024-09-27T15:41:19.199Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 83%
+2024-09-27T15:41:19.202Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 84%
+2024-09-27T15:41:19.205Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 85%
+2024-09-27T15:41:19.208Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 86%
+2024-09-27T15:41:19.215Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 87%
+2024-09-27T15:41:19.218Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 88%
+2024-09-27T15:41:19.225Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 89%
+2024-09-27T15:41:19.228Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 90%
+2024-09-27T15:41:19.231Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 91%
+2024-09-27T15:41:19.238Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 92%
+2024-09-27T15:41:19.241Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 93%
+2024-09-27T15:41:19.244Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 94%
+2024-09-27T15:41:19.251Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 95%
+2024-09-27T15:41:19.254Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 96%
+2024-09-27T15:41:19.257Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 97%
+2024-09-27T15:41:19.264Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 98%
+2024-09-27T15:41:19.269Z [Modules] Streaming discord_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 100%
+2024-09-27T15:41:19.271Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-09-27T15:41:19.271Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip
+2024-09-27T15:41:19.711Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 1%
+2024-09-27T15:41:19.731Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 2%
+2024-09-27T15:41:19.744Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 3%
+2024-09-27T15:41:19.893Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 4%
+2024-09-27T15:41:19.906Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 5%
+2024-09-27T15:41:20.147Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 6%
+2024-09-27T15:41:20.159Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 7%
+2024-09-27T15:41:20.173Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 8%
+2024-09-27T15:41:20.187Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 9%
+2024-09-27T15:41:20.304Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 10%
+2024-09-27T15:41:20.704Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 11%
+2024-09-27T15:41:20.705Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 12%
+2024-09-27T15:41:20.705Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 13%
+2024-09-27T15:41:20.706Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 14%
+2024-09-27T15:41:20.707Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 15%
+2024-09-27T15:41:20.914Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 16%
+2024-09-27T15:41:20.915Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 17%
+2024-09-27T15:41:20.916Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 18%
+2024-09-27T15:41:20.917Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 19%
+2024-09-27T15:41:21.079Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 20%
+2024-09-27T15:41:21.081Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 21%
+2024-09-27T15:41:21.207Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 22%
+2024-09-27T15:41:21.208Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 23%
+2024-09-27T15:41:21.209Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 24%
+2024-09-27T15:41:21.210Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 25%
+2024-09-27T15:41:21.219Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 26%
+2024-09-27T15:41:21.232Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 27%
+2024-09-27T15:41:21.358Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 28%
+2024-09-27T15:41:21.370Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 29%
+2024-09-27T15:41:21.383Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 30%
+2024-09-27T15:41:21.396Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 31%
+2024-09-27T15:41:21.515Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 32%
+2024-09-27T15:41:21.527Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 33%
+2024-09-27T15:41:21.539Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 34%
+2024-09-27T15:41:21.553Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 35%
+2024-09-27T15:41:21.567Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 36%
+2024-09-27T15:41:21.683Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 37%
+2024-09-27T15:41:21.695Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 38%
+2024-09-27T15:41:21.708Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 39%
+2024-09-27T15:41:21.721Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 40%
+2024-09-27T15:41:21.842Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 41%
+2024-09-27T15:41:21.854Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 42%
+2024-09-27T15:41:21.871Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 43%
+2024-09-27T15:41:21.880Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 44%
+2024-09-27T15:41:22.303Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 45%
+2024-09-27T15:41:22.304Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 46%
+2024-09-27T15:41:22.305Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 47%
+2024-09-27T15:41:22.306Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 48%
+2024-09-27T15:41:22.307Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 49%
+2024-09-27T15:41:22.308Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 50%
+2024-09-27T15:41:22.309Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 51%
+2024-09-27T15:41:22.334Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 52%
+2024-09-27T15:41:22.349Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 53%
+2024-09-27T15:41:22.463Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 54%
+2024-09-27T15:41:22.480Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 55%
+2024-09-27T15:41:22.493Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 56%
+2024-09-27T15:41:22.621Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 57%
+2024-09-27T15:41:23.096Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 58%
+2024-09-27T15:41:23.097Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 59%
+2024-09-27T15:41:23.097Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 60%
+2024-09-27T15:41:23.098Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 61%
+2024-09-27T15:41:23.103Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 62%
+2024-09-27T15:41:23.115Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 63%
+2024-09-27T15:41:23.116Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 64%
+2024-09-27T15:41:23.118Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 66%
+2024-09-27T15:41:23.123Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 67%
+2024-09-27T15:41:23.139Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 68%
+2024-09-27T15:41:23.260Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 69%
+2024-09-27T15:41:23.272Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 70%
+2024-09-27T15:41:23.293Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 71%
+2024-09-27T15:41:23.413Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 72%
+2024-09-27T15:41:23.429Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 73%
+2024-09-27T15:41:23.446Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 74%
+2024-09-27T15:41:23.566Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 75%
+2024-09-27T15:41:23.582Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 76%
+2024-09-27T15:41:23.596Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 77%
+2024-09-27T15:41:23.612Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 78%
+2024-09-27T15:41:26.486Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 79%
+2024-09-27T15:41:26.751Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 80%
+2024-09-27T15:41:26.753Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 81%
+2024-09-27T15:41:26.755Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 82%
+2024-09-27T15:41:26.756Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 84%
+2024-09-27T15:41:26.757Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 85%
+2024-09-27T15:41:26.758Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 86%
+2024-09-27T15:41:26.758Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 87%
+2024-09-27T15:41:26.759Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 89%
+2024-09-27T15:41:26.980Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 90%
+2024-09-27T15:41:27.125Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 91%
+2024-09-27T15:41:27.270Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 92%
+2024-09-27T15:41:27.412Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 93%
+2024-09-27T15:41:27.438Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 94%
+2024-09-27T15:41:28.185Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 95%
+2024-09-27T15:41:28.194Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 96%
+2024-09-27T15:41:28.198Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 97%
+2024-09-27T15:41:28.210Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 98%
+2024-09-27T15:41:28.211Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 99%
+2024-09-27T15:41:28.212Z [Modules] Streaming discord_voice@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 100%
+2024-09-27T15:41:28.213Z [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2024-09-27T15:41:28.213Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip
+2024-09-27T15:41:28.635Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 7%
+2024-09-27T15:41:28.637Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 19%
+2024-09-27T15:41:28.640Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 27%
+2024-09-27T15:41:28.643Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 39%
+2024-09-27T15:41:28.647Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 47%
+2024-09-27T15:41:28.650Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 56%
+2024-09-27T15:41:28.653Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 68%
+2024-09-27T15:41:28.656Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 80%
+2024-09-27T15:41:28.660Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 88%
+2024-09-27T15:41:28.663Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 96%
+2024-09-27T15:41:28.665Z [Modules] Streaming discord_zstd@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 100%
+2024-09-27T15:41:28.666Z [Modules] Finished module downloads. [success: 6] [failure: 0]
+2024-09-27T15:41:28.666Z [Modules] Installing updates...
+2024-09-27T15:41:28.666Z [Modules] Installing discord_desktop_core@1 from /home/viamn/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip
+2024-09-27T15:41:28.742Z [Modules] Installing discord_erlpack@1 from /home/viamn/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip
+2024-09-27T15:41:28.782Z [Modules] Installing discord_spellcheck@1 from /home/viamn/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip
+2024-09-27T15:41:29.482Z [Modules] Installing discord_utils@1 from /home/viamn/.config/discord/0.0.69/modules/pending/discord_utils-1.zip
+2024-09-27T15:41:29.620Z [Modules] Installing discord_voice@1 from /home/viamn/.config/discord/0.0.69/modules/pending/discord_voice-1.zip
+2024-09-27T15:41:30.094Z [Modules] Installing discord_zstd@1 from /home/viamn/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip
+2024-09-27T15:41:30.105Z [Modules] Finished module installations. [success: 6] [failure: 0]
+2024-09-27T15:41:30.105Z [Modules] Checking for host updates.
+2024-09-27T15:41:30.359Z [Modules] Host is up to date.
+2024-09-27T15:41:30.359Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T15:41:30.362Z [Modules] No module updates available.
+2024-09-27T15:41:35.175Z [Modules] Starting to install discord_krisp...
+2024-09-27T15:41:35.175Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-09-27T15:41:35.175Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip
+2024-09-27T15:41:35.183Z [Modules] Checking for host updates.
+2024-09-27T15:41:35.186Z [Modules] Starting to install discord_game_utils...
+2024-09-27T15:41:35.409Z [Modules] Host is up to date.
+2024-09-27T15:41:35.409Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T15:41:35.412Z [Modules] No module updates available.
+2024-09-27T15:41:35.557Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 1%
+2024-09-27T15:41:35.679Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 4%
+2024-09-27T15:41:35.763Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 5%
+2024-09-27T15:41:35.772Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 6%
+2024-09-27T15:41:35.794Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 7%
+2024-09-27T15:41:35.818Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 8%
+2024-09-27T15:41:35.880Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 9%
+2024-09-27T15:41:35.900Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 10%
+2024-09-27T15:41:35.929Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 11%
+2024-09-27T15:41:35.961Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 12%
+2024-09-27T15:41:35.994Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 13%
+2024-09-27T15:41:36.029Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 14%
+2024-09-27T15:41:36.056Z [Modules] Starting to install discord_rpc...
+2024-09-27T15:41:36.065Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 15%
+2024-09-27T15:41:36.098Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 16%
+2024-09-27T15:41:36.134Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 17%
+2024-09-27T15:41:36.166Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 18%
+2024-09-27T15:41:36.202Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 19%
+2024-09-27T15:41:36.243Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 20%
+2024-09-27T15:41:36.270Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 21%
+2024-09-27T15:41:36.306Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 22%
+2024-09-27T15:41:36.342Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 23%
+2024-09-27T15:41:36.372Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 24%
+2024-09-27T15:41:36.401Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 25%
+2024-09-27T15:41:36.427Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 26%
+2024-09-27T15:41:36.460Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 27%
+2024-09-27T15:41:36.499Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 28%
+2024-09-27T15:41:36.528Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 29%
+2024-09-27T15:41:36.555Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 30%
+2024-09-27T15:41:36.584Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 31%
+2024-09-27T15:41:36.613Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 32%
+2024-09-27T15:41:36.643Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 33%
+2024-09-27T15:41:36.669Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 34%
+2024-09-27T15:41:36.697Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 35%
+2024-09-27T15:41:36.724Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 36%
+2024-09-27T15:41:36.754Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 37%
+2024-09-27T15:41:36.784Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 38%
+2024-09-27T15:41:36.809Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 39%
+2024-09-27T15:41:36.839Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 40%
+2024-09-27T15:41:36.865Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 41%
+2024-09-27T15:41:36.894Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 42%
+2024-09-27T15:41:36.923Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 43%
+2024-09-27T15:41:36.953Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 44%
+2024-09-27T15:41:36.976Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 45%
+2024-09-27T15:41:37.002Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 46%
+2024-09-27T15:41:37.021Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 47%
+2024-09-27T15:41:37.048Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 48%
+2024-09-27T15:41:37.080Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 49%
+2024-09-27T15:41:37.107Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 50%
+2024-09-27T15:41:37.132Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 51%
+2024-09-27T15:41:37.152Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 52%
+2024-09-27T15:41:37.175Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 53%
+2024-09-27T15:41:37.198Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 54%
+2024-09-27T15:41:37.220Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 55%
+2024-09-27T15:41:37.243Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 56%
+2024-09-27T15:41:37.266Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 57%
+2024-09-27T15:41:37.292Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 58%
+2024-09-27T15:41:37.312Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 59%
+2024-09-27T15:41:37.338Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 60%
+2024-09-27T15:41:37.361Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 61%
+2024-09-27T15:41:37.384Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 62%
+2024-09-27T15:41:37.407Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 63%
+2024-09-27T15:41:37.429Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 64%
+2024-09-27T15:41:37.452Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 65%
+2024-09-27T15:41:37.587Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 66%
+2024-09-27T15:41:37.587Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 67%
+2024-09-27T15:41:37.588Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 68%
+2024-09-27T15:41:37.589Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 69%
+2024-09-27T15:41:37.594Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 70%
+2024-09-27T15:41:37.595Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 71%
+2024-09-27T15:41:37.609Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 72%
+2024-09-27T15:41:37.629Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 73%
+2024-09-27T15:41:37.653Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 74%
+2024-09-27T15:41:37.669Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 75%
+2024-09-27T15:41:37.698Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 76%
+2024-09-27T15:41:37.718Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 77%
+2024-09-27T15:41:37.741Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 78%
+2024-09-27T15:41:37.760Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 79%
+2024-09-27T15:41:37.779Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 80%
+2024-09-27T15:41:37.799Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 81%
+2024-09-27T15:41:37.819Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 82%
+2024-09-27T15:41:37.838Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 83%
+2024-09-27T15:41:37.858Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 84%
+2024-09-27T15:41:37.874Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 85%
+2024-09-27T15:41:37.897Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 86%
+2024-09-27T15:41:37.917Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 87%
+2024-09-27T15:41:37.936Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 88%
+2024-09-27T15:41:37.956Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 89%
+2024-09-27T15:41:37.972Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 90%
+2024-09-27T15:41:37.995Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 91%
+2024-09-27T15:41:38.011Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 92%
+2024-09-27T15:41:38.031Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 93%
+2024-09-27T15:41:38.051Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 94%
+2024-09-27T15:41:38.070Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 95%
+2024-09-27T15:41:38.090Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 96%
+2024-09-27T15:41:38.109Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 97%
+2024-09-27T15:41:38.129Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 98%
+2024-09-27T15:41:38.149Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 99%
+2024-09-27T15:41:38.167Z [Modules] Streaming discord_krisp@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 100%
+2024-09-27T15:41:38.168Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-09-27T15:41:38.168Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip
+2024-09-27T15:41:38.169Z [Modules] Installing discord_krisp@1 from /home/viamn/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip
+2024-09-27T15:41:38.471Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-09-27T15:41:38.507Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 1%
+2024-09-27T15:41:38.511Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 3%
+2024-09-27T15:41:38.514Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 5%
+2024-09-27T15:41:38.517Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 6%
+2024-09-27T15:41:38.521Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 8%
+2024-09-27T15:41:38.524Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 9%
+2024-09-27T15:41:38.527Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 11%
+2024-09-27T15:41:38.534Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 13%
+2024-09-27T15:41:38.537Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 15%
+2024-09-27T15:41:38.540Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 16%
+2024-09-27T15:41:38.543Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 18%
+2024-09-27T15:41:38.547Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 19%
+2024-09-27T15:41:38.550Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 21%
+2024-09-27T15:41:38.553Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 22%
+2024-09-27T15:41:38.556Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 24%
+2024-09-27T15:41:38.560Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 25%
+2024-09-27T15:41:38.563Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 26%
+2024-09-27T15:41:38.566Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 28%
+2024-09-27T15:41:38.569Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 30%
+2024-09-27T15:41:38.573Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 31%
+2024-09-27T15:41:38.576Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 33%
+2024-09-27T15:41:38.580Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 34%
+2024-09-27T15:41:38.582Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 35%
+2024-09-27T15:41:38.586Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 37%
+2024-09-27T15:41:38.589Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 38%
+2024-09-27T15:41:38.592Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 40%
+2024-09-27T15:41:38.599Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 42%
+2024-09-27T15:41:38.602Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 44%
+2024-09-27T15:41:38.606Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 45%
+2024-09-27T15:41:38.609Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 47%
+2024-09-27T15:41:38.612Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 48%
+2024-09-27T15:41:38.615Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 50%
+2024-09-27T15:41:38.618Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 51%
+2024-09-27T15:41:38.757Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 53%
+2024-09-27T15:41:38.759Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 55%
+2024-09-27T15:41:38.763Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 57%
+2024-09-27T15:41:38.767Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 59%
+2024-09-27T15:41:39.063Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 61%
+2024-09-27T15:41:39.064Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 64%
+2024-09-27T15:41:39.065Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 67%
+2024-09-27T15:41:39.065Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 69%
+2024-09-27T15:41:39.065Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 72%
+2024-09-27T15:41:39.065Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 74%
+2024-09-27T15:41:39.066Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 75%
+2024-09-27T15:41:39.066Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 85%
+2024-09-27T15:41:39.067Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 89%
+2024-09-27T15:41:39.067Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 92%
+2024-09-27T15:41:39.067Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 95%
+2024-09-27T15:41:39.376Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 97%
+2024-09-27T15:41:39.381Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 98%
+2024-09-27T15:41:39.383Z [Modules] Streaming discord_game_utils@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 100%
+2024-09-27T15:41:39.384Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-09-27T15:41:39.384Z [Modules] Streaming discord_rpc@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_rpc-1.zip
+2024-09-27T15:41:39.384Z [Modules] Installing discord_game_utils@1 from /home/viamn/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip
+2024-09-27T15:41:39.434Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-09-27T15:41:39.919Z [Modules] Streaming discord_rpc@1 to /home/viamn/.config/discord/0.0.69/modules/pending/discord_rpc-1.zip: 100%
+2024-09-27T15:41:39.921Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2024-09-27T15:41:39.921Z [Modules] Installing discord_rpc@1 from /home/viamn/.config/discord/0.0.69/modules/pending/discord_rpc-1.zip
+2024-09-27T15:41:39.932Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-09-27T18:35:25.752Z [Modules] Checking for host updates.
+2024-09-27T18:35:26.090Z [Modules] Host is up to date.
+2024-09-27T18:35:26.090Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T18:35:26.148Z [Modules] No module updates available.
+2024-09-27T19:35:25.752Z [Modules] Checking for host updates.
+2024-09-27T19:35:26.166Z [Modules] Host is up to date.
+2024-09-27T19:35:26.166Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T19:35:26.343Z [Modules] No module updates available.
+2024-09-27T20:35:25.699Z [Modules] Checking for host updates.
+2024-09-27T20:35:26.167Z [Modules] Host is up to date.
+2024-09-27T20:35:26.167Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T20:35:26.317Z [Modules] No module updates available.

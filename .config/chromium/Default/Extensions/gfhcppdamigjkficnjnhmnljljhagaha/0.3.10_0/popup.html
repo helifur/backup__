@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>AudioPick</title>
+	<link rel="stylesheet" type="text/css" href="popup.css">
+	<script src="popup.js" defer></script>
+</head>
+<body>
+	<header>
+		<a href="https://rain-fighters.github.io/AudioPick/" target="_blank" tabindex="-1"
+			title="AudioPick Home">
+			<h1>AudioPick
+				<svg xmlns="http://www.w3.org/2000/svg"
+					width="24" height="24" viewBox="0 0 24 24" fill="none"
+					stroke="currentColor" stroke-width="2" stroke-linecap="round"
+					stroke-linejoin="round" class="lucide lucide-external-link">
+					<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+					<polyline points="15 3 21 3 21 9"/>
+					<line x1="10" x2="21" y1="14" y2="3"/>
+				</svg>
+			</h1>
+		</a>
+		<div>
+			<svg xmlns="http://www.w3.org/2000/svg"
+				width="24" height="24" viewBox="0 0 24 24" fill="none"
+				stroke="currentColor" stroke-width="2" stroke-linecap="round"
+				stroke-linejoin="round" class="lucide lucide-chevrons-left">
+				<path d="m11 17-5-5 5-5"/><path d="m18 17-5-5 5-5"/>
+			</svg>
+		</div>
+		<div>
+			Read more about and possibly contribute<br>on <b>GitHub</b> or show your appreciation.
+		</div>
+		<div>
+			<!-- extra space -->
+			&nbsp;
+		</div>
+		<img src="./APV3_Icon_2d_2c_128.png"/>
+	</header>
+	<main>
+		<nav class="options">
+			<h2>Pick a preferred audio output device for the active tab</h2>
+			<div>
+				<!-- extra space -->
+				&nbsp;
+			</div>
+			<div>
+				<input type="checkbox" tabindex="-1" name="debug" id="checkbox_smart" value="smart"
+					title="Enable smart / minimal microphone permissions">
+				<label for="checkbox_smart">smart</label>
+			</div>
+			<div>
+				<input type="checkbox" tabindex="-1" name="debug" id="checkbox_debug" value="debug"
+					title="Enable debug messages in content script">
+				<label for="checkbox_debug">debug</label>
+			</div>
+		</nav>
+		<table id="device_options">
+		</table>
+		<nav class="buttons">
+			<button id="apply" type="button" tabindex="-1">Apply just for now</button>
+			<button id="cancel" type="button" tabindex="-1">Cancel</button>
+			<button id="applyStar" type="button" tabindex="-1">Apply and &#9733; for domain</button>
+		</nav>
+	</main>
+	<footer>
+		<a href="https://github.com/rain-fighters/AudioPick/releases" target="_blank" tabindex="-1"
+			title="AudioPick Releases on GitHub">
+			0.3.10
+			<svg xmlns="http://www.w3.org/2000/svg"
+				width="12" height="12" viewBox="0 0 24 24" fill="none"
+				stroke="currentColor" stroke-width="2" stroke-linecap="round"
+				stroke-linejoin="round" class="lucide lucide-external-link">
+				<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+				<polyline points="15 3 21 3 21 9"/>
+				<line x1="10" x2="21" y1="14" y2="3"/>
+			</svg>
+		</a>
+		<span id="status_message"></span>
+		<a href="https://rain-fighters.net/" target="_blank" tabindex="-1"
+			title="Rain-Fighters Home">
+			rain-fighters.net
+			<svg xmlns="http://www.w3.org/2000/svg"
+				width="24" height="24" viewBox="0 0 24 24" fill="none"
+				stroke="currentColor" stroke-width="2" stroke-linecap="round"
+				stroke-linejoin="round" class="lucide lucide-external-link">
+				<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+				<polyline points="15 3 21 3 21 9"/>
+				<line x1="10" x2="21" y1="14" y2="3"/>
+			</svg>
+		</a>
+	</footer>
+</body>
+</html>

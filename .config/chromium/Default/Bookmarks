@@ -1,0 +1,58 @@
+{
+   "checksum": "1de72450dc84f5ff98ddaa66b5a7bf4a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13364578985169011",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13364579952227927",
+            "date_last_used": "0",
+            "guid": "9e12a6f3-54f8-4df5-a16f-a903372381c6",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "codepayne/linux-sound-huawei: linux kernel for Huawei matebook AMD sound support",
+            "type": "url",
+            "url": "https://github.com/codepayne/linux-sound-huawei"
+         }, {
+            "date_added": "13364594280652145",
+            "date_last_used": "0",
+            "guid": "05495b5f-6294-4851-8862-89e5cb7d88fa",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "auth",
+            "type": "url",
+            "url": "http://gstatic.com/generate_204"
+         } ],
+         "date_added": "13364578985169024",
+         "date_last_used": "0",
+         "date_modified": "13364594280652145",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13364578985169027",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

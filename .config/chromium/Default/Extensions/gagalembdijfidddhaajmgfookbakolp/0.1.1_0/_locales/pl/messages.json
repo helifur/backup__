@@ -1,0 +1,38 @@
+{
+   "appDesc": {
+      "message": "Potrzebujesz YouTube Odblokowany? Aplikacja YouTube Booster to niezbędne narzędzie, gdy napotykasz problemy z działaniem usługi!"
+   },
+   "appName": {
+      "message": "YouTube Odblokowany | YouTube Booster"
+   },
+   "connected": {
+      "message": "Połączono"
+   },
+   "connecting": {
+      "message": "Łączenie"
+   },
+   "disconnected": {
+      "message": "Połącz"
+   },
+   "error": {
+      "message": "Błąd"
+   },
+   "rateUs": {
+      "message": "OCEN NAS"
+   },
+   "reasons": {
+      "message": "\u003Cb>Powody:\u003C/b>\u003Cbr>\u003Cbr>1. Wyłącz inne rozszerzenia i VPN\u003Cbr>2. Odśwież stronę wideo\u003Cbr>3. Nie otwieraj wielu kart YouTube jednocześnie\u003Cbr>4. Skontaktuj się z nami \u003C/span>"
+   },
+   "slogan": {
+      "message": "Jedno z najszybszych proxy dostępu\u003Cbr>\u003Cb>do YouTube\u003C/b>"
+   },
+   "subscribe": {
+      "message": "Subscribe!"
+   },
+   "support": {
+      "message": "Skontaktuj się z pomocą"
+   },
+   "whydidntwork": {
+      "message": "Dlaczego to nie działa?"
+   }
+}

@@ -1,0 +1,38 @@
+{
+   "appDesc": {
+      "message": "¿Necesitas YouTube desbloqueado? YouTube Booster es esencial para problemas con el servicio que no funciona."
+   },
+   "appName": {
+      "message": "YouTube Desbloqueado | YouTube Booster"
+   },
+   "connected": {
+      "message": "Conectado"
+   },
+   "connecting": {
+      "message": "Conectando"
+   },
+   "disconnected": {
+      "message": "Conectar"
+   },
+   "error": {
+      "message": "Error"
+   },
+   "rateUs": {
+      "message": "CALIFÍCANOS"
+   },
+   "reasons": {
+      "message": "\u003Cb>Razones:\u003C/b>\u003Cbr>\u003Cbr>1. Desactiva otras extensiones y VPNs\u003Cbr>2. Actualiza la página del video\u003Cbr>3. No abras múltiples pestañas de YouTube simultáneamente\u003Cbr>4. Contáctanos \u003C/span>"
+   },
+   "slogan": {
+      "message": "Uno de los accesos proxy más rápidos\u003Cbr>\u003Cb>a YouTube\u003C/b>"
+   },
+   "subscribe": {
+      "message": "Subscribe!"
+   },
+   "support": {
+      "message": "Contactar Soporte"
+   },
+   "whydidntwork": {
+      "message": "¿Por qué no funciona?"
+   }
+}

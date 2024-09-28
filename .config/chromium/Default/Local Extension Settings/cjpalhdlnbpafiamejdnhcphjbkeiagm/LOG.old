@@ -1,0 +1,37 @@
+2024/09/27-21:26:40.869 47f2 Reusing MANIFEST /home/viamn/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/09/27-21:26:40.869 47f2 Recovering log #724
+2024/09/27-21:26:40.869 47f2 Reusing old log /home/viamn/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000724.log 
+2024/09/27-22:27:19.936 47f1 Level-0 table #728: started
+2024/09/27-22:27:19.964 47f1 Level-0 table #728: 4562469 bytes OK
+2024/09/27-22:27:19.967 47f1 Delete type=0 #724
+2024/09/27-22:28:17.170 47f2 Level-0 table #730: started
+2024/09/27-22:28:17.223 47f2 Level-0 table #730: 7295067 bytes OK
+2024/09/27-22:28:17.226 47f2 Delete type=0 #727
+2024/09/27-22:28:17.228 47f2 Compacting 4@0 + 4@1 files
+2024/09/27-22:28:17.245 47f2 Generated table #731@0: 4 keys, 2489673 bytes
+2024/09/27-22:28:17.266 47f2 Generated table #732@0: 8 keys, 2786889 bytes
+2024/09/27-22:28:17.279 47f2 Generated table #733@0: 4 keys, 2441562 bytes
+2024/09/27-22:28:17.345 47f2 Generated table #734@0: 2 keys, 4785901 bytes
+2024/09/27-22:28:17.356 47f2 Generated table #735@0: 10 keys, 1085357 bytes
+2024/09/27-22:28:17.356 47f2 Compacted 4@0 + 4@1 files => 13589382 bytes
+2024/09/27-22:28:17.358 47f2 compacted to: files[ 0 5 5 0 0 0 0 ]
+2024/09/27-22:28:17.358 47f2 Delete type=2 #715
+2024/09/27-22:28:17.358 47f2 Delete type=2 #723
+2024/09/27-22:28:17.358 47f2 Delete type=2 #719
+2024/09/27-22:28:17.358 47f2 Delete type=2 #725
+2024/09/27-22:28:17.358 47f2 Delete type=2 #717
+2024/09/27-22:28:17.358 47f2 Delete type=2 #716
+2024/09/27-22:28:17.358 47f2 Delete type=2 #728
+2024/09/27-22:28:17.358 47f2 Delete type=2 #730
+2024/09/27-22:28:17.367 47f2 Compacting 1@1 + 1@2 files
+2024/09/27-22:28:17.373 47f2 Generated table #736@1: 16 keys, 1087314 bytes
+2024/09/27-22:28:17.373 47f2 Compacted 1@1 + 1@2 files => 1087314 bytes
+2024/09/27-22:28:17.375 47f2 compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/09/27-22:28:17.375 47f2 Delete type=2 #735
+2024/09/27-22:28:17.375 47f2 Delete type=2 #649
+2024/09/27-22:28:17.375 47f2 Compacting 1@1 + 1@2 files
+2024/09/27-22:28:17.393 47f2 Generated table #737@1: 6 keys, 2506558 bytes
+2024/09/27-22:28:17.393 47f2 Compacted 1@1 + 1@2 files => 2506558 bytes
+2024/09/27-22:28:17.394 47f2 compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/09/27-22:28:17.395 47f2 Delete type=2 #650
+2024/09/27-22:28:17.395 47f2 Delete type=2 #731

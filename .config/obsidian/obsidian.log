@@ -1,0 +1,73 @@
+2024-09-02 07:55:51 Loading main app package /tmp/.mount_ObsidiCGJx9y/resources/obsidian.asar
+2024-09-02 07:55:53 Checking for update using Github
+2024-09-02 07:55:54 Success.
+2024-09-02 07:55:54 Latest version is 1.6.7
+2024-09-02 07:55:54 App is up to date.
+2024-09-03 10:25:34 Loading main app package /tmp/.mount_ObsidiXNkxqe/resources/obsidian.asar
+2024-09-03 10:25:35 Checking for update using Github
+2024-09-03 10:25:36 Success.
+2024-09-03 10:25:36 Latest version is 1.6.7
+2024-09-03 10:25:36 App is up to date.
+2024-09-04 06:01:28 Checking for update using Github
+2024-09-04 06:01:38 Loading main app package /tmp/.mount_ObsidiT88JgD/resources/obsidian.asar
+2024-09-04 06:01:39 Checking for update using Github
+2024-09-04 06:05:39 Failed to check for update using Github (net::ERR_TIMED_OUT)
+2024-09-04 06:05:39 Checking for update using obsidian.md
+2024-09-04 06:05:39 Failed to check for update using obsidian.md (net::ERR_TIMED_OUT)
+2024-09-04 06:46:16 Loading main app package /tmp/.mount_ObsidiWZKrax/resources/obsidian.asar
+2024-09-04 06:46:17 Checking for update using Github
+2024-09-04 06:46:17 Success.
+2024-09-04 06:46:17 Latest version is 1.6.7
+2024-09-04 06:46:17 App is up to date.
+2024-09-05 10:19:10 Loading main app package /tmp/.mount_ObsidiXpK5WV/resources/obsidian.asar
+2024-09-05 10:19:10 Checking for update using Github
+2024-09-05 10:19:11 Success.
+2024-09-05 10:19:11 Latest version is 1.6.7
+2024-09-05 10:19:11 App is up to date.
+2024-09-05 11:19:10 Checking for update using Github
+2024-09-05 11:19:11 Success.
+2024-09-05 11:19:11 Latest version is 1.6.7
+2024-09-05 11:19:11 App is up to date.
+2024-09-06 06:02:39 Loading main app package /tmp/.mount_Obsidi4EuA20/resources/obsidian.asar
+2024-09-06 06:02:40 Checking for update using Github
+2024-09-06 06:02:41 Success.
+2024-09-06 06:02:41 Latest version is 1.6.7
+2024-09-06 06:02:41 App is up to date.
+2024-09-11 06:07:48 Loading main app package /tmp/.mount_ObsidiD1ozBR/resources/obsidian.asar
+2024-09-11 06:07:49 Checking for update using Github
+2024-09-11 06:07:49 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2024-09-11 06:07:49 Checking for update using obsidian.md
+2024-09-11 06:07:49 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2024-09-11 07:07:48 Checking for update using Github
+2024-09-11 07:08:28 Failed to check for update using Github (net::ERR_TIMED_OUT)
+2024-09-11 07:08:28 Checking for update using obsidian.md
+2024-09-11 07:08:29 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2024-09-18 10:27:28 Loading main app package /tmp/.mount_ObsidiRzmojL/resources/obsidian.asar
+2024-09-18 10:27:28 Checking for update using Github
+2024-09-18 10:27:29 Success.
+2024-09-18 10:27:29 Latest version is 1.6.7
+2024-09-18 10:27:29 App is up to date.
+2024-09-23 13:51:29 Loading main app package /tmp/.mount_ObsidiPkLoIg/resources/obsidian.asar
+2024-09-23 13:51:30 Checking for update using Github
+2024-09-23 13:51:30 Success.
+2024-09-23 13:51:30 Latest version is 1.6.7
+2024-09-23 13:51:30 App is up to date.
+2024-09-23 15:00:11 Checking for update using Github
+2024-09-23 15:00:12 Success.
+2024-09-23 15:00:12 Latest version is 1.6.7
+2024-09-23 15:00:12 App is up to date.
+2024-09-25 19:17:46 Loading main app package /tmp/.mount_ObsidixqakRT/resources/obsidian.asar
+2024-09-25 19:17:47 Checking for update using Github
+2024-09-25 19:17:48 Success.
+2024-09-25 19:17:48 Latest version is 1.6.7
+2024-09-25 19:17:48 App is up to date.
+2024-09-26 07:48:43 Loading main app package /tmp/.mount_Obsidi3gtHQf/resources/obsidian.asar
+2024-09-26 07:48:44 Checking for update using Github
+2024-09-26 07:48:44 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2024-09-26 07:48:44 Checking for update using obsidian.md
+2024-09-26 07:48:44 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2024-09-26 08:03:33 Loading main app package /tmp/.mount_ObsidiTonxDU/resources/obsidian.asar
+2024-09-26 08:03:34 Checking for update using Github
+2024-09-26 08:03:37 Success.
+2024-09-26 08:03:37 Latest version is 1.6.7
+2024-09-26 08:03:37 App is up to date.

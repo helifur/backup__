@@ -1,0 +1,87 @@
+/*
+* Styles for PageLoader component
+*/
+.page-loader-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #35363a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 100000;
+  overflow: hidden;
+}
+
+.page-loader-text {
+  color: #fff;
+  font-size: 32px;
+  margin-bottom: 1rem;
+}
+
+.svg-container-gujz {
+  height: 50%;
+  width: 50%;
+  max-height: 150px;
+  max-width: 150px;
+}
+
+.spinner-gujz {
+  transform-origin: center;
+  animation: spinner-sty6 1.5s linear infinite;
+
+  & circle {
+    fill: var(--page-loader-color);
+  }
+}
+
+@keyframes spinner-sty6 {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/*
+* Styles for ConnectionFailed
+*/
+#connection-failed-root {
+  flex: 1 1;
+}
+
+.connection-failed-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  gap: 30px;
+
+  & h2,
+  & p {
+    color: var(--yt-message-renderer-text-color, var(--yt-spec-text-primary));
+  }
+
+  & h2 {
+    font-size: 26px;
+    margin: 0;
+  }
+
+  & p {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0;
+  }
+}
+
+.connection-failed-image-container {
+  width: 120px;
+  height: 120px;
+
+  & img {
+    width: 100%;
+    height: 100%;
+  }
+}
+

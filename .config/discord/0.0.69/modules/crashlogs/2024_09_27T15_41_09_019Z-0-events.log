@@ -1,0 +1,14 @@
+2024-09-27T15:41:09.023Z 0: 
+
+----------------------------------------------
+2024-09-27T15:41:09.034Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.69"}, modulepath: /home/viamn/.config/discord/0.0.69/modules
+2024-09-27T15:41:09.037Z 2: ✅ webContents.created web1 ""
+2024-09-27T15:41:09.039Z 3: ✅ window.created win1 "discord"
+2024-09-27T15:41:09.258Z 4: ✅ webContents.did-finish-load web1
+2024-09-27T15:41:30.413Z 5: ✅ webContents.created web2 ""
+2024-09-27T15:41:30.420Z 6: ✅ window.created win2 "Discord"
+2024-09-27T15:41:35.467Z 7: ✅ webContents.did-finish-load web2
+2024-09-27T15:41:35.577Z 8: window.close win1
+2024-09-27T15:41:35.762Z 9: webContents.destroyed web1
+2024-09-27T15:41:35.767Z 10: window.closed win1
+2024-09-27T16:23:04.594Z 11: window.close win2

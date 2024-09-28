@@ -1,0 +1,4 @@
+2024/09/28-19:57:55.528 eea Reusing MANIFEST /home/viamn/.config/chromium/Default/Site Characteristics Database/MANIFEST-000001
+2024/09/28-19:57:55.528 eea Recovering log #3
+2024/09/28-19:57:55.529 eea (ignoring error) /home/viamn/.config/chromium/Default/Site Characteristics Database/000003.log: dropping 59 bytes; Corruption: missing start of fragmented record(2)
+2024/09/28-19:57:55.529 eea Reusing old log /home/viamn/.config/chromium/Default/Site Characteristics Database/000003.log 

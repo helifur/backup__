@@ -1,0 +1,6 @@
+2024/09/27-18:44:09.373 d6a Reusing MANIFEST /home/viamn/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/27-18:44:09.373 d6a Recovering log #11
+2024/09/27-18:44:09.382 d6a Reusing old log /home/viamn/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2024/09/27-18:44:20.680 d7f Level-0 table #16: started
+2024/09/27-18:44:20.702 d7f Level-0 table #16: 2923600 bytes OK
+2024/09/27-18:44:20.705 d7f Delete type=0 #11

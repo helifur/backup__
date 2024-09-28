@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "imgs/youtubik128_grey.png",
+         "16": "imgs/youtubik16_grey.png",
+         "48": "imgs/youtubik48_grey.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "js/background.js",
+      "type": "module"
+   },
+   "default_locale": "ru",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "1.ce1b21992bf37c86ea7a7cd9be2199a2f18b8cc87c44b85f5a7036692dbb46ea",
+   "host_permissions": [ "https://antpeak.com/*", "https://hooly.info/*", "https://1clickvpn.net/*" ],
+   "icons": {
+      "128": "imgs/youtubik128.png",
+      "16": "imgs/youtubik16.png",
+      "48": "imgs/youtubik48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk8lAJmsQTlTNOtp/HH8hQOX1n5I8cxg+/xAZ9c41K6RseOkwMeKvhgsYz5l+wl65O2I4jsVYpfyEMhyNNOFXJBE++lLBXABvyDo+5R8ElZTtVo2BNnpvcmp24Vjv0DF+agzkcCwCye95ujYWcBsqTc9+PTE6VTdS6iiAjYVoFS1t4Mvoj0x4cilzcoz7DeKTeyWWAPPMIAiisl1+4yzgsuQuZueYjt5LHuoFRO7nAHrYYco5a5tEEHvJD4xzfHzUlIcdSb3cfK7hznZnRMyYdancXHERJQfhh2hus9dNWovLRvjg+B4bOv+rb3YTgLskG76nz+R1jiyeYyDicbbCYwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "permissions": [ "proxy", "storage", "webRequest", "webRequestAuthProvider", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.1"
+}

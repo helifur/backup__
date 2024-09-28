@@ -1,0 +1,14 @@
+2024/08/19-18:21:33.415 6dd Reusing MANIFEST /home/viamn/.config/chromium/Default/WebStorage/28/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/08/19-18:21:33.415 6dd Recovering log #25
+2024/08/19-18:21:33.415 6dd Reusing old log /home/viamn/.config/chromium/Default/WebStorage/28/IndexedDB/indexeddb.leveldb/000025.log 
+2024/08/19-18:21:33.416 6dd Delete type=2 #23
+2024/08/19-18:21:33.440 6ed Level-0 table #30: started
+2024/08/19-18:21:33.441 6ed Level-0 table #30: 667 bytes OK
+2024/08/19-18:21:33.443 6ed Delete type=0 #25
+2024/08/19-18:21:33.443 6eb Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 251 : 1
+2024/08/19-18:21:33.443 6eb Compacting 1@0 + 1@1 files
+2024/08/19-18:21:33.445 6eb Generated table #31@0: 44 keys, 1263 bytes
+2024/08/19-18:21:33.445 6eb Compacted 1@0 + 1@1 files => 1263 bytes
+2024/08/19-18:21:33.447 6eb compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/19-18:21:33.447 6eb Delete type=2 #30
+2024/08/19-18:21:33.447 6eb Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 251 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

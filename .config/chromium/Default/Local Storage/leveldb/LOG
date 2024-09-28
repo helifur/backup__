@@ -1,0 +1,25 @@
+2024/09/28-19:57:55.528 4 Reusing MANIFEST /home/viamn/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/09/28-19:57:55.536 4 Recovering log #2835
+2024/09/28-19:57:55.537 4 Reusing old log /home/viamn/.config/chromium/Default/Local Storage/leveldb/002835.log 
+2024/09/28-19:58:20.735 4 Level-0 table #2839: started
+2024/09/28-19:58:20.739 4 Level-0 table #2839: 19598 bytes OK
+2024/09/28-19:58:20.742 4 Delete type=0 #2835
+2024/09/28-19:58:20.743 4 Compacting 4@0 + 3@1 files
+2024/09/28-19:58:20.804 4 Generated table #2840@0: 2146 keys, 2275329 bytes
+2024/09/28-19:58:20.856 4 Generated table #2841@0: 704 keys, 2102431 bytes
+2024/09/28-19:58:20.914 4 Generated table #2842@0: 2724 keys, 2068587 bytes
+2024/09/28-19:58:20.915 4 Compacted 4@0 + 3@1 files => 6446347 bytes
+2024/09/28-19:58:20.919 4 compacted to: files[ 0 6 1 0 0 0 0 ]
+2024/09/28-19:58:20.925 4 Delete type=2 #2829
+2024/09/28-19:58:20.926 4 Delete type=2 #2832
+2024/09/28-19:58:20.926 4 Delete type=2 #2839
+2024/09/28-19:58:20.927 4 Delete type=2 #2828
+2024/09/28-19:58:20.927 4 Delete type=2 #2830
+2024/09/28-19:58:20.927 4 Delete type=2 #2836
+2024/09/28-19:58:20.928 4 Delete type=2 #2834
+2024/09/28-19:58:59.670 5 Level-0 table #2844: started
+2024/09/28-19:58:59.673 5 Level-0 table #2844: 19194 bytes OK
+2024/09/28-19:58:59.675 5 Delete type=0 #2838
+2024/09/28-20:30:44.551 5 Level-0 table #2846: started
+2024/09/28-20:30:44.557 5 Level-0 table #2846: 25609 bytes OK
+2024/09/28-20:30:44.559 5 Delete type=0 #2843

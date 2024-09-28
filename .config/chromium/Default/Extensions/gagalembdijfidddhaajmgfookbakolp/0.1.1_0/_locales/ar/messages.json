@@ -1,0 +1,38 @@
+{
+   "appDesc": {
+      "message": "تحتاج إلى YouTube غير محجوب؟ تطبيق YouTube Booster هو أداة أساسية عندما تواجه مشكلات في عدم عمل الخدمة!"
+   },
+   "appName": {
+      "message": "YouTube غير محجوب | YouTube Booster"
+   },
+   "connected": {
+      "message": "Connected"
+   },
+   "connecting": {
+      "message": "Connecting"
+   },
+   "disconnected": {
+      "message": "Connect"
+   },
+   "error": {
+      "message": "Error"
+   },
+   "rateUs": {
+      "message": "RATE US"
+   },
+   "reasons": {
+      "message": "\u003Cb>Reasons:\u003C/b>\u003Cbr>\u003Cbr>\n                1. Disable other extensions and VPNs\u003Cbr>\n                2. Refresh the video page\u003Cbr>\n                3. Do not open multiple YouTube tabs simultaneously\u003Cbr>\n                4. Contact us \u003C/span>"
+   },
+   "slogan": {
+      "message": "The one of the Fastest proxied Access\u003Cbr>\u003Cb>to YouTube\u003C/b>"
+   },
+   "subscribe": {
+      "message": "Subscribe!"
+   },
+   "support": {
+      "message": "Contact Support"
+   },
+   "whydidntwork": {
+      "message": "Why it doesn't work?"
+   }
+}

@@ -1,0 +1,38 @@
+{
+   "appDesc": {
+      "message": "Eğer YouTube engellendi mi ihtiyacınız var? YouTube Booster uygulaması, hizmetle ilgili sorunları çözmede kritik öneme sahiptir!"
+   },
+   "appName": {
+      "message": "YouTube Engellendi | YouTube Booster"
+   },
+   "connected": {
+      "message": "Bağlı"
+   },
+   "connecting": {
+      "message": "Bağlanıyor"
+   },
+   "disconnected": {
+      "message": "Bağlan"
+   },
+   "error": {
+      "message": "Hata"
+   },
+   "rateUs": {
+      "message": "BİZİ DEĞERLENDİRİN"
+   },
+   "reasons": {
+      "message": "\u003Cb>Nedenler:\u003C/b>\u003Cbr>\u003Cbr>1. Diğer uzantıları ve VPN'leri devre dışı bırakın\u003Cbr>2. Video sayfasını yenileyin\u003Cbr>3. Aynı anda birden fazla YouTube sekmesi açmayın\u003Cbr>4. Bizimle iletişime geçin \u003C/span>"
+   },
+   "slogan": {
+      "message": "YouTube'a en hızlı vekil erişimlerden biri\u003Cbr>\u003Cb>\u003C/b>"
+   },
+   "subscribe": {
+      "message": "Subscribe!"
+   },
+   "support": {
+      "message": "Destek ile İletişime Geç"
+   },
+   "whydidntwork": {
+      "message": "Neden çalışmıyor?"
+   }
+}

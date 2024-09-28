@@ -1,0 +1,38 @@
+{
+   "appDesc": {
+      "message": "Потрібен YouTube розблоковано? Додаток YouTube Booster є необхідним інструментом, коли ви стикаєтеся з проблемами у роботі сервісу!"
+   },
+   "appName": {
+      "message": "YouTube Розблоковано | YouTube Booster"
+   },
+   "connected": {
+      "message": "Підключено"
+   },
+   "connecting": {
+      "message": "Підключення"
+   },
+   "disconnected": {
+      "message": "Підключити"
+   },
+   "error": {
+      "message": "Помилка"
+   },
+   "rateUs": {
+      "message": "ОЦІНІТЬ НАС"
+   },
+   "reasons": {
+      "message": "\u003Cb>Причини:\u003C/b>\u003Cbr>\u003Cbr>1. Вимкніть інші розширення та VPN\u003Cbr>2. Оновіть сторінку відео\u003Cbr>3. Не відкривайте кілька вкладок YouTube одночасно\u003Cbr>4. Зв'яжіться з нами \u003C/span>"
+   },
+   "slogan": {
+      "message": "Один з найшвидших проксі-доступів\u003Cbr>\u003Cb>до YouTube\u003C/b>"
+   },
+   "subscribe": {
+      "message": "Subscribe!"
+   },
+   "support": {
+      "message": "Зв'язатися зі службою підтримки"
+   },
+   "whydidntwork": {
+      "message": "Чому це не працює?"
+   }
+}
